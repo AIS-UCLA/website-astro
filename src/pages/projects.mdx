@@ -1,0 +1,142 @@
+---
+layout: ../layouts/SimpleLayout.astro
+title: Projects
+---
+
+import { Image } from "astro:assets";
+import metadrive from "../assets/metadrive.webm";
+import alphazero from "../assets/alphazero.webm";
+import omegasus from "../assets/omegasus.webm";
+import automata from "../assets/automata.webm";
+import critica from "../assets/critica.png";
+
+# Projects
+
+We believe projects are one of the best ways to gain experience and connect
+with other members of the community. After completing the intro program, we
+hope that everyone will have the chance to be working on either individual or
+group projects.
+
+Projects conducted in conjunction with the AI Safety Club will receive:
+
+- **Mentorship**: We can help you solve your problems if your project is
+  machine learning, statistics, and math projects. If your problem is very niche,
+  we can connect you with people outside the club who can provide you advice.
+- **Compute**: If you need to train a large machine learning model, AI Safety
+  can help you get access to servers where you can train.
+- **Funding**: - If your project needs funding in order to say, recruit MTurk
+  workers, or to use the OpenAI API, we may be able to provide you with some
+  funding.
+
+We're interested in a broad variety of projects. Our only criteria is that a
+project must:
+
+- **Relate to AI Safety**: There's a lot of flexibility here: You can make a
+  software project on technical topics like interpretability or robustness, or
+  do research on AI timelines, or use AI to build a useful app or product. If
+  you're not sure, feel free to apply anyway and we can discuss if it is.
+- **Be good for the world**:Don't research how to create a murder robot or
+  anything like that.
+
+# Past Projects
+
+## Metadrive
+
+Reinforcement Learning to Drive a Car
+
+Date: Mar 2023 to Jun 2023
+
+In 2023, AI Safety at UCLA members trained a Reinforcement Learning agent to
+drive a car using the Metadrive driving simulator.
+
+We worked in conjunction with Prof. Bolei Zhou's lab to develop these
+tutorials.
+
+### Links
+
+- [Source code](//github.com/pimpale/mdt)
+
+### Screenshots
+
+<video src={metadrive} autoplay className="w-1/2" />
+
+## Alpha Zero Connect4
+
+We ran a tournament to design AI algorithms that played Connect4.
+
+Date: Mar 2023 to Jun 2023
+
+In 2023, we ran a tournament to design AI algorithms that played Connect4. An
+implementation of Deepmind's AlphaZero algorithm was the winner!
+
+### Links
+
+- [Source code](//github.com/wz-ml/A0-Connect4)
+
+### Screenshots
+
+<video src={alphazero} autoplay className="w-1/2" />
+
+## OmegaSUS
+
+Building an Among Us Bot using Reinforcement Learning
+
+Date: Mar 2023 to Jun 2023
+
+In this work, we simulate the popular online multi-player game 'Among Us'.
+Inspired by works like CICERO, we use multiple models to tackle different parts
+of a full game.
+
+### Links
+
+- [Source code](//github.com/pimpale/omegasus)
+
+### Screenshots
+
+<video src={omegasus} autoplay className="w-1/2" />
+
+## Neural Cellular Automata
+
+Growing a Moyai from a single pixel.
+
+Date: Mar 2023 to Jun 2023
+
+This project, created by one of our members, implements a neural network
+cellular automaton as described in [this paper](//distill.pub/2020/growing-ca/).
+It's able to grow a 🗿 from scratch.
+
+### Links
+
+- [Source code](https://github.com/wz-ml/A0-Connect4)
+
+### Screenshots
+
+<video src={automata} autoplay className="w-1/2" />
+
+## Critica
+
+Test your critical reading skills by trying to distinguish between GPT3
+completed text and the real thing
+
+Date: Mar 2022 to Jun 2022
+
+Oftentimes, when we skim an article, we fail to engage with the actual point
+of the text, simply reading the words without really understanding them. GPT3
+is a large language model that is notorious for this as well. It has no "real"
+understanding of anything, but is an expert at writing plausible sounding
+continuations of any text.
+
+Critica forces the reader to discriminate between 3 AI generated distractors
+and 1 true article completion in order to keep reading the article. In doing
+so, we hope to ensure that the reader knows what's really going on in the
+article.
+
+### Links
+
+- [Demo](//critica.ais-ucla.org)
+- [Source code](//github.com/ais-ucla/critica)
+- [Inspired by](//www.gwern.net/Fake-Journal-Club)
+
+### Screenshots
+
+<Image src={critica} alt="critica screenshot" />
