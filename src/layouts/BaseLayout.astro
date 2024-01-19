@@ -131,8 +131,8 @@ const navClasses = [
     </footer>
   </body>
   <script>
-    document.querySelector("#hamburger").addEventListener("click", () => {
-      document.querySelector("#hamburger-fold").classList.toggle("hidden");
+    document.querySelector("#hamburger")?.addEventListener("click", () => {
+      document.querySelector("#hamburger-fold")?.classList.toggle("hidden");
     });
   </script>
 </html>
