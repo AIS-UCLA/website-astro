@@ -42,11 +42,11 @@ We're looking for students who meet any of the following requirements:
 
 ## Apply
 
-Applications are closed for Fall Quarter 2023.
+Applications are open for Winter Quarter 2024!
 
-The deadline was October 8 at 11:59 PM.
+The deadline to apply is Wednesday, January 24 at 11:59 PM.
 
-We released decisions on October 11.
+[Apply here](https://forms.gle/VtfJkYxRzfFNXUfw7)
 
 # Alignment Research Teams (ART)
 
@@ -55,9 +55,13 @@ small groups of AI Safety at UCLA fellows with organizers on an approved
 alignment or ethics-related AI project. Please note that this should and will
 be an intensive project, so expect to spend 3+ hours a week.
 
-Feel free to apply for both the Intro Fellowship and ART!
+### Apply
 
-[Apply Here](//forms.gle/MxEFyBUT8RcEstp78)
+Applications are open for Winter Quarter 2024!
+
+The deadline to apply is Wednesday, January 24 at 11:59 PM.
+
+[Apply Here](https://forms.gle/2Jtudw3ks1aNUyTD6)
 
 # Newsletter
 
