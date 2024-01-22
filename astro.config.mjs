@@ -7,5 +7,8 @@ import mdx from "@astrojs/mdx";
 // https://astro.build/config
 export default defineConfig({
   integrations: [tailwind(), react(), mdx()],
-  site: "https://ais-ucla.org"
+  site: "https://ais-ucla.org",
+  redirects: {
+    "/forms/intro": "/join-us"
+  }
 });
