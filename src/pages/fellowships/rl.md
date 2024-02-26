@@ -7,15 +7,10 @@ title: Reinforcement Learning Fellowship
 ## Table of Contents
 
 1. [Week 1: Preventing an AI-related catastrophe](#week-1-preventing-an-ai-related-catastrophe)
-
 2. [Week 2: The future is going to be wild](#week-2-the-future-is-going-to-be-wild--policy-gradient)
-
 3. [Week 3: Why AI Safety?](#week-3-pytorch-intro--unsolved-problems-in-ml-safety)
-
 4. [Week 4: AI Safety Field Background](#week-4-ai-safety-field-background)
-
 5. [Week 5: Failure Modes in AI](#week-5-failure-modes-in-ai)
-
 6. [Week 6: Open Problems in AI X-Risk](#week-6-open-problems-in-ai-x-risk)
 
 
