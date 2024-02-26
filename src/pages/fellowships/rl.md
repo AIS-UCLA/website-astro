@@ -6,17 +6,17 @@ title: Reinforcement Learning Fellowship
 
 <h2>Table of Contents<h2>
 
-## [Week 1: Preventing an AI-related catastrophe](https://docs.google.com/document/d/1B-l2VaBeSwkPDcpANXm15GDs7Dk05paqkll8FKvmyBc/edit#heading=h.j1da2kkx55uc)
+1. [Week 1: Preventing an AI-related catastrophe](#week-1-preventing-an-ai-related-catastrophe)
 
-## [Week 2: The future is going to be wild](https://docs.google.com/document/d/1B-l2VaBeSwkPDcpANXm15GDs7Dk05paqkll8FKvmyBc/edit#heading=h.s8pjw2cerwqy)
+2. [Week 2: The future is going to be wild](#week-2-the-future-is-going-to-be-wild--policy-gradient)
 
-## [Week 3: Why AI Safety?](https://docs.google.com/document/d/1B-l2VaBeSwkPDcpANXm15GDs7Dk05paqkll8FKvmyBc/edit#heading=h.pbom5h836nt7)
+3. [Week 3: Why AI Safety?](#week-3-pytorch-intro--unsolved-problems-in-ml-safety)
 
-## [Week 4: AI Safety Field Background](https://docs.google.com/document/d/1B-l2VaBeSwkPDcpANXm15GDs7Dk05paqkll8FKvmyBc/edit#heading=h.pcwkk3dq4w0r)
+4. [Week 4: AI Safety Field Background](#week-4-ai-safety-field-background)
 
-## [Week 5: Failure Modes in AI](https://docs.google.com/document/d/1B-l2VaBeSwkPDcpANXm15GDs7Dk05paqkll8FKvmyBc/edit#heading=h.c19rrlo16iip)
+5. [Week 5: Failure Modes in AI](#week-5-failure-modes-in-ai)
 
-## [Week 6: Open Problems in AI X-Risk](https://docs.google.com/document/d/1B-l2VaBeSwkPDcpANXm15GDs7Dk05paqkll8FKvmyBc/edit#heading=h.afb92ouvn0ow)
+6. [Week 6: Open Problems in AI X-Risk](#week-6-open-problems-in-ai-x-risk)
 
 
 ## Week 1: Preventing an AI-related catastrophe
