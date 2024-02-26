@@ -1,7 +1,11 @@
+---
+layout:: ../../layouts/SimpleLayout.astro
+title: Reinforcement Learning Fellowship
+---
+#AI Safety at UCLA Intro Fellowship: Reinforcement Learning Track
+
 <h2 align="center">Intro to AI Safety at UCLA</h2>
 
-
-<h5> All artwork is generated using MidjourneyAI <h5>
 <h2>Table of Contents<h2>
 
 ## [Week 1: Preventing an AI-related catastrophe](https://docs.google.com/document/d/1B-l2VaBeSwkPDcpANXm15GDs7Dk05paqkll8FKvmyBc/edit#heading=h.j1da2kkx55uc)
