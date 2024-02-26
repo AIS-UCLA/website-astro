@@ -1,14 +1,6 @@
----
-layout: ../../layouts/SimpleLayout.astro
-title: Reinforcement Learning Fellowship
----
-
-# AI Safety at UCLA Intro Fellowship: Reinforcement Learning Track
-
 <h2 align="center">Intro to AI Safety at UCLA</h2>
 
-![](RLcurrpics/image1.png)
-![](RLcurrpics/image2.png)
+
 <h5> All artwork is generated using MidjourneyAI <h5>
 <h2>Table of Contents<h2>
 
@@ -26,8 +18,7 @@ title: Reinforcement Learning Fellowship
 
 
 ## Week 1: Preventing an AI-related catastrophe
-![](RLcurrpics/image3.png)
-![](RLcurrpics/image4.png)
+
 ###### Core Readings (150 mins)
 
 1. **[Intelligence Explosion](https://intelligence.org/files/IE-EI.pdf) (20 min)**
@@ -42,8 +33,7 @@ title: Reinforcement Learning Fellowship
 
 
 ## Week 2: The future is going to be wild + Policy Gradient
-![](RLcurrpics/image5.png)
-![](RLcurrpics/image6.png)
+
 ## Core Readings: (85 min)
 
 ### Theoretical
@@ -75,8 +65,7 @@ title: Reinforcement Learning Fellowship
 2. Understand the intuition behind the policy gradient.
 
 ## Week 3: Pytorch Intro + Unsolved Problems in ML Safety
-![](RLcurrpics/image6.png)
-![](RLcurrpics/image7.png)
+
 
 ## Core Readings:
 
@@ -93,8 +82,7 @@ title: Reinforcement Learning Fellowship
 - Implement both the discrete and continuous versions of the Policy Gradient.
 
 ## Week 4: AI Safety Field Background
-![](RLcurrpics/image8.png)
-![](RLcurrpics/image9.png)
+
 
 ## Core Readings: (105 min)
 
@@ -118,8 +106,7 @@ title: Reinforcement Learning Fellowship
 
 ## Week 5: Failure Modes in AI
 
-![](RLcurrpics/image10.png)
-![](RLcurrpics/image11.png)
+
 
 ## Core Readings: (55 min)
 
@@ -143,8 +130,7 @@ title: Reinforcement Learning Fellowship
 
 
 ## Week 6: Open Problems in AI X-Risk
-![](RLcurrpics/image11.png)
-![](RLcurrpics/image12.png)
+
 
 ## Core Readings:
 
@@ -166,3 +152,4 @@ Before next meeting, think (or write down) your answers to these questions:
 
 - If you were to pursue a research question/topic in AI safety, what would it be?
 - What area of AI safety do you find most interesting? What area of AI safety do you find most promising?
+
