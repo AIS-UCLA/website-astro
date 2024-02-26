@@ -2,9 +2,7 @@
 layout: ../../layouts/SimpleLayout.astro
 title: Reinforcement Learning Fellowship
 ---
-#AI Safety at UCLA Intro Fellowship: Reinforcement Learning Track
-
-<h2 align="center">Intro to AI Safety at UCLA</h2>
+# AI Safety at UCLA Intro Fellowship: Reinforcement Learning Track
 
 <h2>Table of Contents<h2>
 
