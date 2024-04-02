@@ -17,7 +17,7 @@ Interests: Out of Distribution detection, ML Research, general mathematics
 
 Interests: Mathematics, Systems Programming, Programming Languages
 
-## Mario Peng - Alignment Research Team Director
+## Mario Peng - Board Member
 
 Interests: Human-Centered AI, Multimodal AI, Interpretability, Data Augmentation, NLP
 

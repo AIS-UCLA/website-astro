@@ -44,9 +44,9 @@ We're looking for students who meet any of the following requirements:
 
 Applications are open for Spring Quarter 2024!
 
-The deadline to apply is Wednesday, January 24 at 11:59 PM.
+The deadline to apply is Wednesday, April 10 at 11:59 PM.
 
-[Apply here](https://forms.gle/VtfJkYxRzfFNXUfw7)
+[Apply here](https://forms.gle/BfYrj1YqbBXsDzN28)
 
 # Alignment Research Teams (ART)
 
@@ -59,9 +59,9 @@ be an intensive project, so expect to spend 3+ hours a week.
 
 Applications are open for Spring Quarter 2024!
 
-The deadline to apply is Wednesday, January 24 at 11:59 PM.
+The deadline to apply is Wednesday, April 10 at 11:59 PM.
 
-[Apply Here](https://forms.gle/2Jtudw3ks1aNUyTD6)
+[Apply Here](https://forms.gle/dcmmux9PakxPAr6P7)
 
 # Newsletter
 
