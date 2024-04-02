@@ -24,10 +24,10 @@ Since Fall 2023, we have started offering multiple tracks for our intro
 fellowshups. Click on the links below to explore each tracks' associated
 curricula:
 
-- [Computer Vision](/fellowships/cv)
-- [Diffusion](/fellowships/diffusion)
-- [Transformers](/fellowships/transformers)
-- [Reinforcement Learning](/fellowships/rl)
+- [Reinforcement Learning](/fellowships/rl): Create an agent that learns to play connect four.
+- [Transformers](/fellowships/transformers): Understand language models and build GPT-2 from the ground up.
+- [Diffusion](/fellowships/diffusion): Build your own text-to-image generation model like Stable Diffusion.
+- [Computer Vision](/fellowships/cv): Design models to analyze images for object recognition and classification, recommended for those with little-to-no machine learning experience.
 
 ## Eligibility
 
@@ -42,7 +42,7 @@ We're looking for students who meet any of the following requirements:
 
 ## Apply
 
-Applications are open for Winter Quarter 2024!
+Applications are open for Spring Quarter 2024!
 
 The deadline to apply is Wednesday, January 24 at 11:59 PM.
 
@@ -57,7 +57,7 @@ be an intensive project, so expect to spend 3+ hours a week.
 
 ### Apply
 
-Applications are open for Winter Quarter 2024!
+Applications are open for Spring Quarter 2024!
 
 The deadline to apply is Wednesday, January 24 at 11:59 PM.
 

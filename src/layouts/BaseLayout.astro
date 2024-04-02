@@ -78,22 +78,11 @@ const navClasses = [
               <a
                 class:list={[
                   ...navClasses,
-                  currentPath === "/fellowships"
+                  currentPath === "/join"
                     ? "bg-slate-700 text-slate-100"
                     : "text-slate-700 hover:bg-slate-100",
                 ]}
-                href="/fellowships"
-              >
-                Intro Fellowship
-              </a>
-              <a
-                class:list={[
-                  ...navClasses,
-                  currentPath === "/join-us"
-                    ? "bg-slate-700 text-slate-100"
-                    : "text-slate-700 hover:bg-slate-100",
-                ]}
-                href="/join-us"
+                href="/join"
               >
                 Join Us
               </a>
@@ -123,10 +112,7 @@ const navClasses = [
               Who We Are
             </a>
             <a class="block my-2 text-slate-700" href="/projects">Projects</a>
-            <a class="block my-2 text-slate-700" href="/fellowships">
-              Intro Fellowship
-            </a>
-            <a class="block my-2 text-slate-700" href="/join-us">Join Us</a>
+            <a class="block my-2 text-slate-700" href="/join">Join Us</a>
           </div>
         </nav>
       </div>

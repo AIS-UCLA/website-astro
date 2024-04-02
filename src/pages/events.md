@@ -5,19 +5,19 @@ title: Events
 
 # Events
 
-## Winter 2024 General Meeting
+## Spring 2024 General Meeting
 
-Join us for our Winter 2024 General Meeting! You'll get to see the projects
+Join us for our Spring 2024 General Meeting! You'll get to see the projects
 we're working on, meet fellow members, and learn how you can get involved with
 AI Safety! Both current members and prospective members are invited!
 
 We'll have snacks and free swag!
 
-Where: TBD
+Where: Student Activities Center Conference Room 3
 
-When: TBD
+When: 3:30-5:00 PM, Monday April 8
 
-RSVP [Here](https://forms.gle/5h7v8gAxPYaGggBh6)
+RSVP [Here](https://forms.gle/hfrc11Zwa39PNoYb7)
 
 # Past Events
 
