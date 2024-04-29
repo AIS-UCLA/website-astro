@@ -23,20 +23,40 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
     />
     <title>{title}</title>
     <style>
-      #widenav > a {
-        @apply inline-block rounded-lg py-1 px-2 text-sm;
+      #widenav a {
+        @apply rounded-lg py-1 px-2 text-sm text-slate-700 hover:underline;
 
         &.active {
-          @apply bg-slate-700 text-slate-100;
-        }
-        &.inactive {
-          @apply text-slate-700 hover:bg-slate-100;
+          @apply underline;
         }
       }
+
       #narrownav > a {
         @apply block my-2 text-slate-700;
       }
+
+      .dropdown {
+        @apply relative;
+      }
+
+      .dropdown-reveal {
+        @apply absolute bg-white p-2 text-right -right-2 left-auto whitespace-nowrap;
+
+        & > a {
+          @apply text-slate-700 hover:underline block;
+        }
+      }
     </style>
+    <script>
+      document.querySelector("#hamburger")?.addEventListener("click", () => {
+        document.querySelector("#narrownav")?.classList.toggle("hidden");
+      });
+      document.querySelectorAll(".dropdown").forEach(dropdown => {
+        let toggle = () => dropdown.querySelector(".dropdown-reveal")?.classList.toggle("hidden");
+        dropdown.addEventListener("mouseover", toggle);
+        dropdown.addEventListener("mouseout", toggle);
+      })
+    </script>
   </head>
   <body class="flex flex-col h-screen justify-between">
     <header class="py-6">
@@ -52,26 +72,60 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
                AI Safety at UCLA
             </a>
             <div id="widenav" class="hidden md:flex items-center gap-x-1 md:gap-x-8">
+              <div class="dropdown">
+                <a
+                  class={currentPath === "/fellowships" ? "active" : ""}
+                  href="/fellowships"
+                >
+                  Fellowships
+                </a>
+                <div class="dropdown-reveal hidden">
+                  <a
+                    class={currentPath === "/fellowships/cv" ? "active" : ""}
+                    href="/fellowships/cv"
+                  >
+                    Computer Vision
+                  </a>
+                  <a
+                    class={currentPath === "/fellowships/diffusion" ? "active" : ""}
+                    href="/fellowships/diffusion"
+                  >
+                    Diffusion
+                  </a>
+                  <a
+                    class={currentPath === "/fellowships/rl" ? "active" : ""}
+                    href="/fellowships/rl"
+                  >
+                    Reinforcement Learning
+                  </a>
+                  <a
+                    class={currentPath === "/fellowships/transformers" ? "active" : ""}
+                    href="/fellowships/transformers"
+                  >
+                    Transformers
+                  </a>
+                </div>
+              </div>
               <a
-                class={currentPath === "/events" ? "active" : "inactive"}
+                class={currentPath === "/events" ? "active" : ""}
                 href="/events"
               >
                 Events
               </a>
               <a
-                class={currentPath === "/who-we-are" ? "active" : "inactive"}
+                class={currentPath === "/who-we-are" ? "active" : ""}
                 href="/who-we-are"
               >
                 Who We Are
               </a>
               <a
-                class={currentPath === "/projects" ? "active" : "inactive"}
+                class={currentPath === "/projects" ? "active" : ""}
                 href="/projects"
               >
                 Projects
               </a>
               <a
-                class={currentPath === "/join" ? "active" : "inactive"}
+                class={currentPath === "/join" ? "active" : ""}
                 href="/join"
               >
                 Join Us
@@ -118,9 +172,4 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
       </div>
     </footer>
   </body>
-  <script type="module">
-    document.querySelector("#hamburger")?.addEventListener("click", () => {
-      document.querySelector("#narrownav")?.classList.toggle("hidden");
-    });
-  </script>
 </html>
