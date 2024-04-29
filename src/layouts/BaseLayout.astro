@@ -9,12 +9,15 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
     <link rel="icon" href="/favicon.ico" />
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
     <meta name="generator" content={Astro.generator} />
-    <meta name="description" content={Astro.props.desc || "AI Safety at UCLA"} />
+    <meta
+      name="description"
+      content={Astro.props.desc || "AI Safety at UCLA"}
+    />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -51,11 +54,14 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
       document.querySelector("#hamburger")?.addEventListener("click", () => {
         document.querySelector("#narrownav")?.classList.toggle("hidden");
       });
-      document.querySelectorAll(".dropdown").forEach(dropdown => {
-        let toggle = () => dropdown.querySelector(".dropdown-reveal")?.classList.toggle("hidden");
+      document.querySelectorAll(".dropdown").forEach((dropdown) => {
+        let toggle = () =>
+          dropdown
+            .querySelector(".dropdown-reveal")
+            ?.classList.toggle("hidden");
         dropdown.addEventListener("mouseover", toggle);
         dropdown.addEventListener("mouseout", toggle);
-      })
+      });
     </script>
   </head>
   <body class="flex flex-col h-screen justify-between">
@@ -71,7 +77,10 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
               />
                AI Safety at UCLA
             </a>
-            <div id="widenav" class="hidden md:flex items-center gap-x-1 md:gap-x-8">
+            <div
+              id="widenav"
+              class="hidden md:flex items-center gap-x-1 md:gap-x-8"
+            >
               <div class="dropdown">
                 <a
                   class={currentPath === "/fellowships" ? "active" : ""}
@@ -87,7 +96,9 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
                     Computer Vision
                   </a>
                   <a
-                    class={currentPath === "/fellowships/diffusion" ? "active" : ""}
+                    class={currentPath === "/fellowships/diffusion"
+                      ? "active"
+                      : ""}
                     href="/fellowships/diffusion"
                   >
                     Diffusion
@@ -99,7 +110,9 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
                     Reinforcement Learning
                   </a>
                   <a
-                    class={currentPath === "/fellowships/transformers" ? "active" : ""}
+                    class={currentPath === "/fellowships/transformers"
+                      ? "active"
+                      : ""}
                     href="/fellowships/transformers"
                   >
                     Transformers
@@ -124,10 +137,7 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
               >
                 Projects
               </a>
-              <a
-                class={currentPath === "/join" ? "active" : ""}
-                href="/join"
-              >
+              <a class={currentPath === "/join" ? "active" : ""} href="/join">
                 Join Us
               </a>
             </div>
@@ -147,10 +157,7 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
               </svg>
             </div>
           </div>
-          <div
-            id="narrownav"
-            class="hidden border-t mt-4 border-slate-400"
-          >
+          <div id="narrownav" class="hidden border-t mt-4 border-slate-400">
             <a href="/events">Events</a>
             <a href="/who-we-are">Who We Are</a>
             <a href="/projects">Projects</a>

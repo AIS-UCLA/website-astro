@@ -58,7 +58,7 @@ Additional Optional Content (< 50 mins)
 Learning Goals:
 
 1. Recognize the relationship between compute and capabilities.
-2. Recognize the radical impact AI can have on the future of humanity 
+2. Recognize the radical impact AI can have on the future of humanity
 3. Understand the speed with which AI will transition from powerful to superintelligence.
 4. Understand probability distributions in generative language models
 5. Recognize trainable parameters/tasks in language generation at a small scale
@@ -83,8 +83,8 @@ Learning Goals:
 1. Recognize the unsolved problems in AI safety and how current research groups are tackling them
 2. Understand issues with only using performance to evaluate classifiers.
 3. Understand how positional encoding works in the transformer architecture
-4. Recognize the application of positional encoding using the PyTorch API 
-5. Apply positional encoding and embedding into your bigram model (take a look at week 6’s Karpathy video) 
+4. Recognize the application of positional encoding using the PyTorch API
+5. Apply positional encoding and embedding into your bigram model (take a look at week 6’s Karpathy video)
 
 ## Week 4: The AI Safety Landscape + Self-Attention
 
@@ -110,7 +110,6 @@ Learning Goals:
 3. Understand the variety of different research approaches tackling alignment.
 4. Understand how attention changed the landscape of natural language processing
 5. Recognize how attention is implemented with QKV vectors
-
 
 ## Week 5: Failure Modes in AI + Multi-Headed Attention
 
@@ -155,4 +154,3 @@ Learning Goals:
 3. Apply embeddings, positional encoding, and multi-headed attention in a transformer model
 4. Understand how large language models work internally through each step of the process
 5. Recognize the challenges of creating and training large scale language models
-

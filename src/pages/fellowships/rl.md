@@ -2,6 +2,7 @@
 layout: ../../layouts/SimpleLayout.astro
 title: Reinforcement Learning Fellowship
 ---
+
 # AI Safety at UCLA Intro Fellowship: Reinforcement Learning Track
 
 ## Table of Contents
@@ -13,13 +14,11 @@ title: Reinforcement Learning Fellowship
 5. [Week 5: Failure Modes in AI](#week-5-failure-modes-in-ai)
 6. [Week 6: Open Problems in AI X-Risk](#week-6-open-problems-in-ai-x-risk)
 
-
 ## Week 1: Preventing an AI-related catastrophe
 
 Core Readings (150 mins)
 
 1. [Intelligence Explosion](https://intelligence.org/files/IE-EI.pdf) (20 min)
-   
 2. [AlphaGo - The Movie](https://www.youtube.com/watch?v=WXuK6gekU1Y) (1hr 30 min)
 
 Learning Goals:
@@ -48,10 +47,10 @@ Learning Goals:
 
 ### Theoretical
 
-1. Understand the relationship between compute and general capabilities. 
+1. Understand the relationship between compute and general capabilities.
 2. Gain experience with the types of datasets used in modern AI systems.
 3. See how AI could impact a wide range of industries.
-4. Reflect on the radical impact AI can have on the future of humanity 
+4. Reflect on the radical impact AI can have on the future of humanity
 5. Reflect on the strange possibilities of our economic future.
 6. Reflect on the speed with which AI will transition from powerful to superintelligence.
 
@@ -71,9 +70,11 @@ Core Readings:
 Learning Goals:
 
 ### Theoretical
+
 - Understand issues with only using performance to evaluate classifiers.
 
 ### Practical
+
 - Implement both the discrete and continuous versions of the Policy Gradient.
 
 ## Week 4: AI Safety Field Background
@@ -102,8 +103,8 @@ Core Readings: (55 min)
 ### Theoretical
 
 1. [X-Risk Analysis for AI Research (Appendix A pg 13-14)](https://arxiv.org/pdf/2206.05862) (10 min)
-2. [What Failure Looks Like](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like) (10 min)**
-3. [Clarifying What Failure Looks Like](https://www.alignmentforum.org/posts/v6Q7T335KCMxujhZu/clarifying-what-failure-looks-like) (25 mins)**
+2. [What Failure Looks Like](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like) (10 min)\*\*
+3. [Clarifying What Failure Looks Like](https://www.alignmentforum.org/posts/v6Q7T335KCMxujhZu/clarifying-what-failure-looks-like) (25 mins)\*\*
 
 ### Practical
 
@@ -137,4 +138,3 @@ Before next meeting, think (or write down) your answers to these questions:
 
 1. If you were to pursue a research question/topic in AI safety, what would it be?
 2. What area of AI safety do you find most interesting? What area of AI safety do you find most promising?
-
