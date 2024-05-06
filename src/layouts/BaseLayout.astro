@@ -40,6 +40,10 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
 
       .dropdown {
         @apply relative;
+
+        & > a {
+          @apply relative -top-0.5;
+        }
       }
 
       .dropdown-reveal {
