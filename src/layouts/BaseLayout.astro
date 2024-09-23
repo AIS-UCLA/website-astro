@@ -121,6 +121,14 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
                   >
                     Transformers
                   </a>
+                  <a
+                    class={currentPath === "/fellowships/governance"
+                      ? "active"
+                      : ""}
+                    href="/fellowships/governance"
+                  >
+                    Governance
+                  </a>
                 </div>
               </div>
               <a
