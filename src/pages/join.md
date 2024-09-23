@@ -28,10 +28,11 @@ curricula:
 - [Transformers](/fellowships/transformers): Understand language models and build GPT-2 from the ground up.
 - [Diffusion](/fellowships/diffusion): Build your own text-to-image generation model like Stable Diffusion.
 - [Computer Vision](/fellowships/cv): Design models to analyze images for object recognition and classification, recommended for those with little-to-no machine learning experience.
+- [AI Governance](/fellowships/governance): Understand policy approaches to mitigating AI risk and propose ideas of your own.
 
 ## Eligibility
 
-We're looking for students who meet any of the following requirements:
+For our transformers fellowship, we're looking for students who meet any of the following requirements:
 
 - Have taken CS 31 or an equivalent class OR
 - Have worked on a Python project OR
@@ -40,13 +41,20 @@ We're looking for students who meet any of the following requirements:
   familiarity with contemporary AI research would provide a good baseline for the
   course’s content.
 
+For our governance fellowship, we do not enforce any particular requirements. However, we are very excited to see participants who:
+- Have strong writing and communication ability
+- Are familiar with US policy (e.g., have engaged in policy research or an internship)
+- Have some familiarity with computer science or another technical field.
+- Once again, these are not enforced! We encourage all participants to apply, because interest and motivation are the two traits we care most about.
+
 ## Apply
 
-Applications are open for Spring Quarter 2024!
+Applications are open for Fall Quarter 2024!
 
-The deadline to apply is Wednesday, April 10 at 11:59 PM.
+The deadline to apply is Friday, October 4 at 11:59 PM.
 
-[Apply here](https://forms.gle/BfYrj1YqbBXsDzN28)
+- [Apply for the Transformers fellowship](https://forms.gle/BfYrj1YqbBXsDzN28)
+- [Apply for the Governance fellowship](https://docs.google.com/forms/d/e/1FAIpQLSe9S0rxOdrp1XEoxHnvOeKOFvW-9739TnWMtpm82qxm1l0eIw/viewform?usp=sharing)
 
 # Alignment Research Teams (ART)
 
