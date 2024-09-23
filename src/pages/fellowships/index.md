@@ -13,3 +13,4 @@ Curricula:
 - [Diffusion](/fellowships/diffusion)
 - [Reinforcement Learning](/fellowships/rl)
 - [Transformers](/fellowships/transformers)
+- [Governance](/fellowships/governance)
