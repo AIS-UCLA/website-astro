@@ -28,7 +28,7 @@ curricula:
 - [Transformers](/fellowships/transformers): Understand language models and build GPT-2 from the ground up.
 - [Diffusion](/fellowships/diffusion): Build your own text-to-image generation model like Stable Diffusion.
 - [Computer Vision](/fellowships/cv): Design models to analyze images for object recognition and classification, recommended for those with little-to-no machine learning experience.
-- [AI Governance](/fellowships/governance): Understand policy approaches to mitigating AI risk and propose ideas of your own.
+- [Governance](/fellowships/governance): Understand policy approaches to mitigating AI risk and propose ideas of your own.
 
 ## Eligibility
 
@@ -53,7 +53,7 @@ Applications are open for Fall Quarter 2024!
 
 The deadline to apply is Friday, October 4 at 11:59 PM.
 
-- [Apply for the Transformers fellowship](https://forms.gle/BfYrj1YqbBXsDzN28)
+- [Apply for one of the technical fellowships](https://forms.gle/YUVkN8dawLESHbPLA)
 - [Apply for the Governance fellowship](https://docs.google.com/forms/d/e/1FAIpQLSe9S0rxOdrp1XEoxHnvOeKOFvW-9739TnWMtpm82qxm1l0eIw/viewform?usp=sharing)
 
 # Alignment Research Teams (ART)
@@ -65,11 +65,7 @@ be an intensive project, so expect to spend 3+ hours a week.
 
 ### Apply
 
-Applications are open for Spring Quarter 2024!
-
-The deadline to apply is Wednesday, April 10 at 11:59 PM.
-
-[Apply Here](https://forms.gle/dcmmux9PakxPAr6P7)
+Applications are not open yet for Fall Quarter 2024.
 
 # Newsletter
 
