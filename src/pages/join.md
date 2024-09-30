@@ -7,7 +7,7 @@ title: Join Us
 
 ## About
 
-The Intro to AI Safety Fellowship is a 6 week, quarter-long course which
+The Intro to AI Safety Fellowship is a 6-8 week, quarter-long course which
 explores the impact of increasingly powerful AI systems on society, explains
 the problems which the AI safety field is currently working on, and goes over
 active areas of research.
@@ -17,6 +17,14 @@ accompanied by weekly, collective meetings that expand on the topics covered
 in the lessons. You can expect to learn from many prevailing sources in the
 field which will help you develop a solid research agenda that you may work
 towards in the following quarters.
+
+In the 6-week technical fellowships, participants will complete about 3 hours 
+of core content outside of hour-long weekly meetings, split between conceptual 
+readings and technical content. In the 8-week governance fellowship, there is 
+no mandatory time commitment outside of the two-hour weekly meetings, each of
+which will be equally split between readings and discussion. We encourage 
+participants to do some or all of the optional readings before each meeting
+to dive deeper on topics that interest them!
 
 ### Curriculum Options
 
@@ -28,10 +36,11 @@ curricula:
 - [Transformers](/fellowships/transformers): Understand language models and build GPT-2 from the ground up.
 - [Diffusion](/fellowships/diffusion): Build your own text-to-image generation model like Stable Diffusion.
 - [Computer Vision](/fellowships/cv): Design models to analyze images for object recognition and classification, recommended for those with little-to-no machine learning experience.
-- [AI Governance](/fellowships/governance): Understand policy approaches to mitigating AI risk and propose ideas of your own.
+- [Governance](/fellowships/governance): Understand policy approaches to mitigating AI risk and propose ideas of your own.
 
 ## Eligibility
 
+For our transformers fellowship, we're looking for students who meet any of the following requirements:
 For our transformers fellowship, we're looking for students who meet any of the following requirements:
 
 - Have taken CS 31 or an equivalent class OR
@@ -53,7 +62,7 @@ Applications are open for Fall Quarter 2024!
 
 The deadline to apply is Friday, October 4 at 11:59 PM.
 
-- [Apply for the Transformers fellowship](https://forms.gle/BfYrj1YqbBXsDzN28)
+- [Apply for one of the technical fellowships](https://forms.gle/YUVkN8dawLESHbPLA)
 - [Apply for the Governance fellowship](https://docs.google.com/forms/d/e/1FAIpQLSe9S0rxOdrp1XEoxHnvOeKOFvW-9739TnWMtpm82qxm1l0eIw/viewform?usp=sharing)
 
 # Alignment Research Teams (ART)
@@ -65,11 +74,7 @@ be an intensive project, so expect to spend 3+ hours a week.
 
 ### Apply
 
-Applications are open for Spring Quarter 2024!
-
-The deadline to apply is Wednesday, April 10 at 11:59 PM.
-
-[Apply Here](https://forms.gle/dcmmux9PakxPAr6P7)
+Applications are not open yet for Fall Quarter 2024.
 
 # Newsletter
 
