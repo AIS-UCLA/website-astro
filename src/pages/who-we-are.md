@@ -5,26 +5,30 @@ title: Who We Are
 
 # Board
 
-## Govind Pimpale - President
+## Rayaan Dhar - Board Member
 
-Interests: Reinforcement Learning, Z3, Proof Solvers, Cybersecurity, Linux
+Interests: Machine learning
 
-## Aiden Ament - Board Member
+## Travis Ha - Board Member
 
-Interests: Out of Distribution detection, ML Research, general mathematics
-
-## Christopher Milan - Board Member
-
-Interests: Mathematics, Systems Programming, Programming Languages
-
-## Mario Peng - Board Member
-
-Interests: Human-Centered AI, Multimodal AI, Interpretability, Data Augmentation, NLP
+Interests: Computer Vision, Multimodal AI, RAG, doomscrolling
 
 ## Tejas Kamtam - Board Member
 
 Interests: Time series forecasting, NLU, quantum computing
 
+## Christopher Milan - President
+
+Interests: Mathematics, Systems Programming, Programming Languages, Infrastructure
+
+## Govind Pimpale - Board Member
+
+Interests: Reinforcement Learning, Z3, Proof Solvers, Cybersecurity, Linux
+
+## Steven Veld - Board Member
+
+Interests: compute governance, capabilities evaluations, forecasting
+
 ## William Zhou - Board Member
 
-Interests: Simulated Annealing, Kaggle, Interpretability (ML)
+Interests: Singular Learning Theory, Reinforcement Learning from Human Feedback, interpretability
