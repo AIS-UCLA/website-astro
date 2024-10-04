@@ -245,7 +245,7 @@ Optional Additional Content (~20 min):
 4. [AI Policy Resources](https://emergingtechpolicy.org/areas/ai-policy/)
 5. [10 skills you need to grow your public policy career](https://onlinecourses.bsg.ox.ac.uk/blog/public-policy-skills-you-need-to-grow-your-career/)
 6. [Aptitudes for AI Governance Work](https://forum.effectivealtruism.org/posts/ozSBaNLysue9MmFqs/aptitudes-for-ai-governance-work)
-7. [AI Safety Career Opportunities Job Board](https://aisafetyfundamentals.com/opportunities-board/)
+7. [AI Safety Career Opportunities Job Board](https://jobs.80000hours.org/?refinementList%5Btags_area%5D%5B0%5D=AI%20safety%20%26%20policy&utm_source=aisf)
 
 
 Learning Goals:
