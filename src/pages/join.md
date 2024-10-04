@@ -64,16 +64,30 @@ The deadline to apply is Friday, October 4 at 11:59 PM.
 - [Apply for one of the technical fellowships](https://forms.gle/YUVkN8dawLESHbPLA)
 - [Apply for the Governance fellowship](https://docs.google.com/forms/d/e/1FAIpQLSe9S0rxOdrp1XEoxHnvOeKOFvW-9739TnWMtpm82qxm1l0eIw/viewform?usp=sharing)
 
-# Alignment Research Teams (ART)
+# Post Fellowship Opportunities
 
-ART is our new initiative for real-world AI safety research. We will be forming
-small groups of AI Safety at UCLA fellows with organizers on an approved
-alignment or ethics-related AI project. Please note that this should and will
-be an intensive project, so expect to spend 3+ hours a week.
+For those who have completed the Intro Fellowship, we will be offering various other additional programs.
+Please fill out [this form](https://forms.gle/zD8nCmdu17farryV8) if you are interested in any (or all) of
+these programs.
 
-### Apply
+## Reading Group
 
-Applications are not open yet for Fall Quarter 2024.
+Come to the AI Safety weekly reading group to learn more about the latest topics in AI and alignment research.
+Discuss papers with your peers and deep dive into them! An understanding of machine learning at the
+C147+M146/Math 165 level is encouraged but not required.
+
+## Upskilling Programs
+
+This quarter, we will be running various upskilling programs open to those who have completed the Intro Fellowship.
+This will include weekly meetings with content inspired by ARENA, but additionally, dependant on interest, deeper
+dives into the technology behind machine learning (ie. CUDA programming and autograd engines).
+
+## Alignment Research Team
+
+The Alignment Research Team (ART) is our main post-fellowship program. This quarter, our ART projects will be
+predominantly structured around getting club-members access to our GPU resources for their projects. As such,
+ART will be much less structured so that organizer time can be spent on other programs. Additionally, we will
+be running weekly coworking sessions, similar to those run last year.
 
 # Newsletter
 
