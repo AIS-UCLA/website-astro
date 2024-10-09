@@ -70,7 +70,7 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
   </head>
   <!-- Google tag (gtag.js) -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-RTTEHHSKNL"></script>
-  <script>
+  <script is:inline>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
