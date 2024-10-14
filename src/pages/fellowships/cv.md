@@ -23,7 +23,6 @@ Core readings: (120 mins)
 Learning Goals:
 
 1. Familiarize yourself with the arguments for AI being an existential risk
-2. Understand why RL enables superhuman performance
 
 ## Week 2: The future is going to be wild
 
