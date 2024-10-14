@@ -5,7 +5,7 @@ title: Who We Are
 
 # Board
 
-## Rayaan Dhar - Board Member
+## Raayan Dhar - Board Member
 
 Interests: Machine learning
 
