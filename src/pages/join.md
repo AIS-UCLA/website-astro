@@ -57,9 +57,9 @@ For our governance fellowship, we do not enforce any particular requirements. Ho
 
 ## Apply
 
-Applications are open for Fall Quarter 2024!
+Applications are open for Winter Quarter 2024!
 
-The deadline to apply is Friday, October 4 at 11:59 PM.
+The deadline to apply is Saturday, January 11 at 11:59 PM.
 
 - [Apply for one of the technical fellowships](https://forms.gle/YUVkN8dawLESHbPLA)
 - [Apply for the Governance fellowship](https://docs.google.com/forms/d/e/1FAIpQLSe9S0rxOdrp1XEoxHnvOeKOFvW-9739TnWMtpm82qxm1l0eIw/viewform?usp=sharing)
