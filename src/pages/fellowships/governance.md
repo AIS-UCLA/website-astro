@@ -144,7 +144,7 @@ What Could Go Wrong
 Paths to Success
 1. [Paradigms of AI Alignment: Components and Enablers](https://youtu.be/ZeecOKBus3Q) (34 min)
 2. [Managing Extreme AI Risks Amid Rapid Progress](https://arxiv.org/abs/2310.17688) (20 min)
-3. 1. [What is AI Alignment? – BlueDot Impact](https://aisafetyfundamentals.com/blog/what-is-ai-alignment/) (10 min)
+3. [What is AI Alignment? – BlueDot Impact](https://aisafetyfundamentals.com/blog/what-is-ai-alignment/) (10 min)
 
 
 #### Learning Goals:
