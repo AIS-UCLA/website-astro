@@ -271,6 +271,7 @@ Advice and Ideas
 1. [Advice for Seeking Full-Time Roles](https://emergingtechpolicy.org/pathways/full-time-roles/) (8 min)
 2. [12 Tentative Ideas for U.S. AI Policy by Muehlhauser](https://www.openphilanthropy.org/research/12-tentative-ideas-for-us-ai-policy/) (5 min)
 3. [So You Want to Be a Policy Entrepreneur? by Michael Mintrom](https://www.tandfonline.com/doi/full/10.1080/25741292.2019.1675989) (40 min)
+4. [What's next in AI Governance](https://youtu.be/AbTXdXGyUPk?si=XXA6QJpn2uulRMj4) (58 min)
 
 Career Resources
 1. [Career Resources on US AI Policy](https://www.agisf.com/governance-blog/us-ai-policy-careers) (5 min)
