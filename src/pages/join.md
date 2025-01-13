@@ -59,7 +59,7 @@ For our governance fellowship, we do not enforce any particular requirements. Ho
 
 Applications are open for Winter Quarter 2025!
 
-The deadline to apply is Saturday, January 11 at 11:59 PM.
+The deadline to apply is Wednesday, January 15 at 11:59 PM.
 
 - [Apply for one of the technical fellowships](https://forms.gle/N7z5dLbUqMqvQmD57)
 - [Apply for the Governance fellowship](https://docs.google.com/forms/d/e/1FAIpQLSe9S0rxOdrp1XEoxHnvOeKOFvW-9739TnWMtpm82qxm1l0eIw/viewform?usp=sharing)
