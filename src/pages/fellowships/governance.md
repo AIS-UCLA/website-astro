@@ -40,7 +40,7 @@ title: AI Governance Fellowship
 
 
 1. [Scope Insensitivity](https://www.lesswrong.com/posts/2ftJ38y9SRBCBsCzy/scope-insensitivity) (10 min)
-2. [Biden's Executive Order on Safe, Secure, and Trustworthy AI](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/) (10 min)
+2. [European Union AI Act](https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence) (10 min)
 
 
 #### Learning Goals:
