@@ -1,3 +1,8 @@
+---
+layout: ../../layouts/SimpleLayout.astro
+title: CUDA Track
+---
+
 # Week 1: Intro to GPUs and writing your first kernel!
 ![gpu-devotes-more-transistors-to-data-processing](https://github.com/user-attachments/assets/2aca8245-ad88-4613-8b73-f94ad395edf4)
 
