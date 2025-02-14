@@ -139,6 +139,22 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
                   </a>
                 </div>
               </div>
+              <div class="dropdown">
+                <a
+                  class={currentPath === "/upskilling-tracks" ? "active" : ""}
+                  href="/upskilling-tracks"
+                >
+                  Upskilling
+                </a>
+                <div class="dropdown-reveal hidden">
+                  <a
+                    class={currentPath === "/upskilling-tracks/cuda" ? "active" : ""}
+                    href="/upskilling-tracks/cuda"
+                  >
+                    CUDA Track
+                  </a>
+                </div>
+              </div>
               <a
                 class={currentPath === "/events" ? "active" : ""}
                 href="/events"
@@ -184,6 +200,9 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
             <a href="/fellowships/rl">Reinforcement Learning</a>
             <a href="/fellowships/transformers">Transformers</a>
             <a href="/fellowships/governance">Governance</a>
+            <hr />
+            <a href="/upskilling-tracks">Upskilling Tracks:</a>
+            <a href="/upskilling-tracks/cuda">CUDA</a>
             <hr />
             <a href="/events">Events</a>
             <a href="/who-we-are">Who We Are</a>
