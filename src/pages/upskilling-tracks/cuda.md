@@ -42,9 +42,10 @@ title: CUDA Track
 [NVIDIA PTX ISA Documentation (Chapter 9.7 is most relevant)](https://docs.nvidia.com/cuda/parallel-thread-execution/index.html?highlight=mma#)
 
 # Week 6: Exploring other optimization parallel techniques!
-![1_l1uoTZpQUW8YaSjFpcMNlw](https://github.com/user-attachments/assets/3d2997f7-d149-4668-a48c-39b3fc516f1a)
+![reduction](https://github.com/user-attachments/assets/fadec7b2-eedb-44c2-9918-07f81a0b1604)
 
 #### How could we compute the sum of all the elements in a 1-million sized vector?
+
 
 ### Recommended Readings:
 [Primer on Parallel Reduction](https://developer.download.nvidia.com/assets/cuda/files/reduction.pdf)\
@@ -53,8 +54,8 @@ title: CUDA Track
 [Efficient Softmax Kernel](https://oneflow2020.medium.com/how-to-implement-an-efficient-softmax-cuda-kernel-oneflow-performance-optimization-sharing-405ad56e9031)\
 [Online Softmax Paper](https://arxiv.org/pdf/1805.02867)
 
-# Week 7 & 8: Putting it all together in Flash Attention!
-![0_maKQLOzxf4mK3B4O](https://github.com/user-attachments/assets/89814742-9d3c-47b2-b2f2-ee9304a71dce)
+# Week 7 & 8: Putting it all together in Flash Attention
+![flash-att](https://github.com/user-attachments/assets/9a1df84b-f36d-41a9-bf01-b8cd27a32fa5)
 
 #### Is the self-attention layer in LLMs compute-bound or memory-bound?
 
