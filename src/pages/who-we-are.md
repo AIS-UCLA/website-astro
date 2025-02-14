@@ -7,7 +7,7 @@ title: Who We Are
 
 ## Gabriel Castro - Board Member
 
-Interest: ML Systems, Multi-GPU Programming
+Interests: ML Systems, Multi-GPU Programming
 
 ## Raayan Dhar - Board Member
 
