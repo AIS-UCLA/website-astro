@@ -29,7 +29,7 @@ to dive deeper on topics that interest them!
 ### Curriculum Options
 
 Since Fall 2023, we have started offering multiple tracks for our intro
-fellowshups. Click on the links below to explore each tracks' associated
+fellowships. Click on the links below to explore each tracks' associated
 curricula:
 
 - [Reinforcement Learning](/fellowships/rl): Create an agent that learns to play connect four.
@@ -37,6 +37,9 @@ curricula:
 - [Diffusion](/fellowships/diffusion): Build your own text-to-image generation model like Stable Diffusion.
 - [Computer Vision](/fellowships/cv): Design models to analyze images for object recognition and classification, recommended for those with little-to-no machine learning experience.
 - [Governance](/fellowships/governance): Understand policy approaches to mitigating AI risk and propose ideas of your own.
+
+
+
 
 ## Eligibility
 
@@ -81,6 +84,10 @@ C147+M146/Math 165 level is encouraged but not required.
 This quarter, we will be running various upskilling programs open to those who have completed the Intro Fellowship.
 This will include weekly meetings with content inspired by ARENA, but additionally, dependant on interest, deeper
 dives into the technology behind machine learning (ie. CUDA programming and autograd engines).
+
+Since Winter 2025, we are offering upskilling tracks as post-fellowship programs. Click on the links below to explore each tracks’ associated curricula:
+
+- [CUDA Track](/upskilling-tracks/cuda): Learn about GPU Programming and Profiling with CUDA C/C++
 
 ## Alignment Research Team
 
