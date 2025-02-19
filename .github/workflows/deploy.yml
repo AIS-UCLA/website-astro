@@ -1,0 +1,21 @@
+name: deploy
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    name: Deploy to Hetzner
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+      - run: npm i
+      - run: npm run build
+      - run: echo "$DEPLOY_SSH_KEY" > deploy_key
+        env:
+          DEPLOY_SSH_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
+      - run: rsync -avz -e "ssh -i deploy_key -l www" dist/ cherf.ais-ucla.org:/www/www.ais-ucla.org
+
