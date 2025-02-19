@@ -15,8 +15,9 @@ jobs:
           node-version: 18
       - run: npm i
       - run: npm run build
-      - run: echo "$DEPLOY_SSH_KEY" > deploy_key
+      - run: 'echo "$DEPLOY_SSH_KEY" > key'
+        shell: bash
         env:
           DEPLOY_SSH_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
-      - run: rsync -avz -e "ssh -i deploy_key -l www" dist/ cherf.ais-ucla.org:/www/www.ais-ucla.org
+      - run: rsync -avz -e "ssh -i key -l www" dist/ cherf.ais-ucla.org:/www/www.ais-ucla.org
 
