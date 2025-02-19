@@ -17,5 +17,5 @@ jobs:
           ssh-private-key: ${{ secrets.DEPLOY_SSH_KEY }}
       - run: npm i
       - run: npm run build
-      - run: rsync -avz -e "ssh -i key -l www" dist/ cherf.ais-ucla.org:/www/www.ais-ucla.org
+      - run: rsync -avz -e "ssh -l www" dist/ cherf.ais-ucla.org:/www/www.ais-ucla.org
 
