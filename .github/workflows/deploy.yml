@@ -12,11 +12,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 18
+      - uses: webfactory/ssh-agent@v0.9.0
+        with:
+          ssh-private-key: ${{ secrets.DEPLOY_SSH_KEY }}
       - run: npm i
       - run: npm run build
-      - run: 'echo "$DEPLOY_SSH_KEY" > key'
-        shell: bash
-        env:
-          DEPLOY_SSH_KEY: ${{ secrets.DEPLOY_SSH_KEY }}
       - run: rsync -avz -e "ssh -i key -l www" dist/ cherf.ais-ucla.org:/www/www.ais-ucla.org
 
