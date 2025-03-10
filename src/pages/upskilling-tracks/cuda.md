@@ -13,6 +13,13 @@ title: CUDA Track
 4. [Week 6: Exploring other optimization parallel techniques!](#week-6-exploring-other-optimization-parallel-techniques)
 5. [Week 7 & 8: Putting it all together in Flash Attention](#week-7--8-putting-it-all-together-in-flash-attention)
 
+## Assignments
+1. [Assignment 1: Puzzle Extravaganza](https://github.com/AIS-UCLA/cuda-track/tree/main/assign1)
+2. [Assignment 2 Part 1: Implementing SGEMM Kernels](https://github.com/AIS-UCLA/cuda-track/tree/main/assign2_pt1)
+3. [Assignment 2 Part 2: Implementing HGEMM Kernels](https://github.com/AIS-UCLA/cuda-track/tree/main/assign2_pt2)
+4. [Assignment 3: CUDA Softmax: You're too slow!](https://github.com/AIS-UCLA/cuda-track/tree/main/assign3)
+5. [Assignment 4: Running GPT2 inference w/ Flash Attention](https://github.com/AIS-UCLA/cuda-track/tree/main/assign4)
+
 ## Week 1: Intro to GPUs and writing your first kernel!
 ![gpu-devotes-more-transistors-to-data-processing](https://github.com/user-attachments/assets/2aca8245-ad88-4613-8b73-f94ad395edf4)
 
