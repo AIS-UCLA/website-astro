@@ -51,6 +51,7 @@ title: CUDA Track
 ### Recommended Readings:
 [Alex Armbruster's Blog on HGEMM](https://alexarmbr.github.io/2024/08/10/How-To-Write-A-Fast-Matrix-Multiplication-From-Scratch-With-Tensor-Cores.html)\
 [Bruce's Blog on HGEMM](https://bruce-lee-ly.medium.com/nvidia-tensor-core-cuda-hgemm-advanced-optimization-5a17eb77dd85)\
+[Spatter's Blog on HGEMM](https://www.spatters.ca/mma-matmul)\
 [NVIDIA's Presentation on A100 Tensor Cores](https://developer.download.nvidia.com/video/gputechconf/gtc/2020/presentations/s21745-developing-cuda-kernels-to-push-tensor-cores-to-the-absolute-limit-on-nvidia-a100.pdf)
 
 ### Further references to use:
