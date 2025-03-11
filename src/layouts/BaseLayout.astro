@@ -153,6 +153,12 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
                   >
                     CUDA Track
                   </a>
+                  <a
+                    class={currentPath === "/upskilling-tracks/projects" ? "active" : ""}
+                    href="/upskilling-tracks/projects"
+                  >
+                    Past Projects
+                  </a>
                 </div>
               </div>
               <a
@@ -160,12 +166,6 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
                 href="/who-we-are"
               >
                 Who We Are
-              </a>
-              <a
-                class={currentPath === "/projects" ? "active" : ""}
-                href="/projects"
-              >
-                Projects
               </a>
               <a target="_blank" href="//discord.gg/37TzSyrwmf">
                 Join Us
@@ -197,9 +197,9 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
             <hr />
             <a href="/upskilling-tracks">Upskilling Tracks:</a>
             <a href="/upskilling-tracks/cuda">CUDA</a>
+            <a href="/upskilling-tracks/projects">Past Projects</a>
             <hr />
             <a href="/who-we-are">Who We Are</a>
-            <a href="/projects">Projects</a>
             <a target="_blank" href="//discord.gg/37TzSyrwmf">Join Us</a>
           </div>
         </nav>

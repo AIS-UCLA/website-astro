@@ -12,3 +12,6 @@ In the 8-week CUDA Track, participants will master parallel computing with CUDA 
 Curricula:
 
 - [CUDA Track](/upskilling-tracks/cuda)
+
+Click [here](/upskilling-tracks/projects) to learn more about other past projects.
+
