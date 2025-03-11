@@ -27,7 +27,7 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
     <title>{title}</title>
     <style>
       #widenav a {
-        @apply rounded-lg py-1 px-2 text-sm text-slate-700 hover:underline;
+        @apply rounded-lg py-1 px-2 text-sm hover:underline;
 
         &.active {
           @apply underline;
@@ -161,13 +161,23 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
                   </a>
                 </div>
               </div>
-              <a
-                class={currentPath === "/who-we-are" ? "active" : ""}
-                href="/who-we-are"
-              >
-                Who We Are
-              </a>
-              <a target="_blank" href="//discord.gg/37TzSyrwmf">
+              <div class="dropdown">
+                <a
+                  class={currentPath === "/who-we-are" ? "active" : ""}
+                  href="/who-we-are"
+                >
+                  Who We Are
+                </a>
+                <div class="dropdown-reveal hidden">
+                  <a href="//blog.aisafetyatucla.org/">
+                    Blog
+                  </a>
+                  <a href="//stats.ais-ucla.org/">
+                    Cluster Stats
+                  </a>
+                </div>
+              </div>
+              <a class="text-slate-100 bg-slate-900 rounded-lg" target="_blank" href="//discord.gg/37TzSyrwmf">
                 Join Us
               </a>
             </div>
@@ -200,6 +210,8 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
             <a href="/upskilling-tracks/projects">Past Projects</a>
             <hr />
             <a href="/who-we-are">Who We Are</a>
+            <a href="//blog.aisafetyatucla.org/">Blog</a>
+            <a href="//stats.ais-ucla.org/">Cluster Stats</a>
             <a target="_blank" href="//discord.gg/37TzSyrwmf">Join Us</a>
           </div>
         </nav>
