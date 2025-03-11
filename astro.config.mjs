@@ -10,7 +10,7 @@ export default defineConfig({
   integrations: [tailwind(), react(), mdx()],
   site: "https://ais-ucla.org",
   redirects: {
-    "/forms/intro": "/join-us",
+    "/forms/intro": "/",
   },
   vite: {
     css: {

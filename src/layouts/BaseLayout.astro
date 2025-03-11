@@ -156,12 +156,6 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
                 </div>
               </div>
               <a
-                class={currentPath === "/events" ? "active" : ""}
-                href="/events"
-              >
-                Events
-              </a>
-              <a
                 class={currentPath === "/who-we-are" ? "active" : ""}
                 href="/who-we-are"
               >
@@ -173,7 +167,7 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
               >
                 Projects
               </a>
-              <a class={currentPath === "/join" ? "active" : ""} href="/join">
+              <a target="_blank" href="//discord.gg/37TzSyrwmf">
                 Join Us
               </a>
             </div>
@@ -204,10 +198,9 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
             <a href="/upskilling-tracks">Upskilling Tracks:</a>
             <a href="/upskilling-tracks/cuda">CUDA</a>
             <hr />
-            <a href="/events">Events</a>
             <a href="/who-we-are">Who We Are</a>
             <a href="/projects">Projects</a>
-            <a href="/join">Join Us</a>
+            <a target="_blank" href="//discord.gg/37TzSyrwmf">Join Us</a>
           </div>
         </nav>
       </div>
@@ -217,7 +210,7 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
     </main>
     <footer class="py-10 bg-slate-900 text-slate-100">
       <div class="mx-auto max-w-7xl flex justify-between px-6">
-        <p>&copy; 2024 AI Safety at UCLA</p>
+        <p>&copy; 2025 AI Safety at UCLA</p>
         <div class="flex gap-x-6">
           <a href="//blog.aisafetyatucla.org">Blog</a>
           <a href="//github.com/ais-ucla">Github</a>

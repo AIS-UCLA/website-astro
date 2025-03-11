@@ -24,10 +24,35 @@ which will be equally split between readings and discussion. We encourage
 participants to do some or all of the optional readings before each meeting
 to dive deeper on topics that interest them!
 
-Curricula:
+### Curriculum Options
+
+Since Fall 2023, we have started offering multiple tracks for our intro
+fellowships. Click on the links below to explore each tracks' associated
+curricula:
 
 - [Computer Vision](/fellowships/cv)
 - [Diffusion](/fellowships/diffusion)
 - [Reinforcement Learning](/fellowships/rl)
 - [Transformers](/fellowships/transformers)
 - [Governance](/fellowships/governance)
+
+## Eligibility
+
+For our transformers fellowship, we're looking for students who meet any of the following requirements:
+
+- Have taken CS 31 or an equivalent class OR
+- Have worked on a Python project OR
+- Have strong skills in another programming language
+- Additionally, a basic understanding of machine learning fundamentals and
+  familiarity with contemporary AI research would provide a good baseline for the
+  course’s content.
+
+For our governance fellowship, we do not enforce any particular requirements. However, we are very excited to see participants who:
+- Have strong writing and communication ability
+- Are familiar with US policy (e.g., have engaged in policy research or an internship)
+- Have some familiarity with computer science or another technical field.
+- Once again, these are not enforced! We encourage all participants to apply, because interest and motivation are the two traits we care most about.
+
+## Apply
+
+Applications are not open yet for Spring 2025.
