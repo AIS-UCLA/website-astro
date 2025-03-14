@@ -38,7 +38,7 @@ curricula:
 
 ## Eligibility
 
-For our transformers fellowship, we're looking for students who meet any of the following requirements:
+For our technical fellowships, we're looking for students who meet any of the following requirements:
 
 - Have taken CS 31 or an equivalent class OR
 - Have worked on a Python project OR
