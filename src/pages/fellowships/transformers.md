@@ -7,24 +7,24 @@ title: Transformers Fellowship
 
 ## Table of Contents
 
-1. [Week 1: Preventing an AI-related catastrophe](#week-1-preventing-an-ai-related-catastrophe)
-2. [Week 2: The future is going to be wild](#week-2-the-future-is-going-to-be-wild)
-3. [Week 3: AI Safety Field Background](#week-3-ai-safety-field-background)
-4. [Week 4: Unsolved Problems in ML Safety](#week-4-unsolved-problems-in-ml-safety)
+1. [Week 1: Preventing an AI-related catastrophe + Review NN Architecture](#week-1-preventing-an-ai-related-catastrophe)
+2. [Week 2: The risks of AI + Introduction to Transformers](#week-2-the-future-is-going-to-be-wild)
+3. [Week 3: Unsolved Problems in ML Safety + Positional Encoding](#week-3-ai-safety-field-background)
+4. [Week 4: Self-Attention + Transformers in-depth](#week-4-unsolved-problems-in-ml-safety)
 5. [Week 5: Failure Modes in AI](#week-5-failure-modes-in-ai)
 6. [Week 6: Open Problems in AI X-Risk](#week-6-open-problems-in-ai-x-risk)
 
 ## Week 1: Preventing an AI-related catastrophe + Review NN Architecture
 
-Core Content (< 200 mins):
+Conceptual Readings (120 mins):
 
-1. [Preventing an AI-related catastrophe](https://80000hours.org/problem-profiles/artificial-intelligence/#top) (120 min)
-2. [Review the neural network architecture, forward & backward propagation, and weights & biases (Neural Networks Chapters 1-5, 3Blue1Brown)](https://www.3blue1brown.com/topics/neural-networks)
+1. [Deadly by Default: A primer on existential risk from artificial intelligence](https://homosabiens.substack.com/p/deadly-by-default) (60 min)
+2. [Learn about the neural network architecture and gradient descent (Neural Networks Chapters 1-3, 3Blue1Brown)](https://www.3blue1brown.com/topics/neural-networks) (30 mins)
 
-Optional Additional Practice (< 180 mins):
+Technical Material (60 mins):
 
-1. [Implementing Micrograd (Andrej Karpathy’s NN-Zero-to-Hero):](https://www.youtube.com/watch?v=VMj-3S1tku0) (120 min)
-2. [PyTorch Tutorial (PyTorch)](https://pytorch.org/tutorials/beginner/basics/intro.html)
+1. [Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy (10:15 - 31:00)](https://youtu.be/XfpMkf4rD6E?si=v05ZdRJThRCmnGEw&t=615) (21 min)
+2. [PyTorch Tutorial (PyTorch)](https://pytorch.org/tutorials/beginner/basics/intro.html) (40 mins)
 
 Learning Goals:
 
@@ -32,24 +32,20 @@ Learning Goals:
 2. Understand the neural network architecture and how models learn
 3. Apply the PyTorch API to implement backpropagation
 
-## Week 2:The future is going to be wild + The Bigram Model
+## Week 2: The risks of AI + Introduction to Transformers
 
 The progress of AI has been quite fast, AI today is quite capable, and AI has been very useful in solving problems that other methods cannot solve.
 
-Core Content: (< 200 min)
 
-Conceptual Readings (60 mins):
+Conceptual Readings (70 mins):
 
-1. [AI and Compute](https://openai.com/blog/ai-and-compute/) (5 min)
-2. [The Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html) (10 min)
-3. [All Possible Views About Humanity’s Future are Wild](https://www.cold-takes.com/all-possible-views-about-humanitys-future-are-wild/) (15 min)
-4. [This can’t go on](https://www.cold-takes.com/this-cant-go-on/) (20 min)
-5. [Intelligence Explosion: Evidence and Import](https://drive.google.com/file/d/1QxMuScnYvyq-XmxYeqBRHKz7cZoOosHr/view) (20 min)
+1. [What risks does AI pose?](https://aisafetyfundamentals.com/blog/ai-risks/) (40 mins)
+2. [Learn about forward & backward propagation and LLM's (Neural Networks Chapters 4-6, 3Blue1Brown)](https://www.3blue1brown.com/topics/neural-networks) (30 mins)
 
-Practical (< 150 mins)
+Technical Material (< 60 mins):
 
-1. [The Bigram Model (Andrej Karpathy’s Zero-to-Hero)](https://www.youtube.com/watch?v=TCH_1BHY58I) (120 min)
-2. [You may need to watch part 1 to understand the MLP task](https://www.youtube.com/watch?v=PaCmpygFfXo) (75 min)
+1. [Softmax Explained](https://youtu.be/ytbYRIN0N4g?si=iSZbjOTS8JoWzRwI) (17 min)
+
 
 Additional Optional Content (< 50 mins)
 
@@ -57,24 +53,21 @@ Additional Optional Content (< 50 mins)
 
 Learning Goals:
 
-1. Recognize the relationship between compute and capabilities.
-2. Recognize the radical impact AI can have on the future of humanity
-3. Understand the speed with which AI will transition from powerful to superintelligence.
-4. Understand probability distributions in generative language models
-5. Recognize trainable parameters/tasks in language generation at a small scale
+1. Understand and be able to discuss the various risks of AI as a whole 
+2. Be able to explain backpropogation and how it helps neural networks 
+3. Be able to explain how softmax works and how it converts neural network output to probabilities
 
 ## Week 3: Unsolved Problems in ML Safety + Positional Encoding
 
-Core Content (< 150 mins):
 
-Conceptual (< 80 mins)
+Conceptual (100 mins):
 
 1. [Unsolved Problems in ML Safety](https://arxiv.org/pdf/2109.13916.pdf) (60 min)
-2. [Why AI alignment could be hard with modern deep learning](https://www.cold-takes.com/why-ai-alignment-could-be-hard-with-modern-deep-learning/) (20 mins)
+2. [Gain a basic understanding of LLM's and Transformers (Neural Networks Chapters 7-9, 3Blue1Brown)](https://www.3blue1brown.com/topics/neural-networks) (40 min)
 
-Technical Readings (< 60 mins):
+Technical Readings (< 120 mins):
 
-1. [Intro to Positional Encoding](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/) (30 min)
+1. [Intro to Positional Encoding](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/) (60 min)
 2. [Code Emporium’s Positional Encoding Video](https://www.youtube.com/watch?v=ZMxVe-HK174) (10 min)
 3. [PyTorch’s Transformer Example](https://pytorch.org/tutorials/beginner/transformer_tutorial.html) (30 min)
 
@@ -84,24 +77,19 @@ Learning Goals:
 2. Understand issues with only using performance to evaluate classifiers.
 3. Understand how positional encoding works in the transformer architecture
 4. Recognize the application of positional encoding using the PyTorch API
-5. Apply positional encoding and embedding into your bigram model (take a look at week 6’s Karpathy video)
 
-## Week 4: The AI Safety Landscape + Self-Attention
 
-Core readings: (< 200 min):
+## Week 4: Self-Attention + Transformers in-depth
 
-Conceptual readings (80 min):
+Technical Content (60 mins):
 
-1. [A Bird's Eye View of the ML Field](https://www.alignmentforum.org/s/FaEBwhhe3otzYKGQt/p/AtfQFj8umeyBBkkxa) (45 min)
-2. [Paul Christiano: Current work in AI alignment](https://forum.effectivealtruism.org/posts/63stBTw3WAW6k45dY/paul-christiano-current-work-in-ai-alignment) (30 min)
-
-Technical Content (< 120 mins):
-
-1. [The Transformer by Mohammed Terry-Jack](https://medium.com/@b.terryjack/deep-learning-the-transformer-9ae5e9c5a190)
-2. [Language Modeling with Transformers, read from the Attention until the end](https://docs.google.com/document/d/1XJQT8PJYzvL0CLacctWcT0T5NfL7dwlCiIqRtdTcIqA/edit#heading=h.yiqylu6wmw91) (45 min)
-3. [The Annotated Transformer read through Part 1](https://nlp.seas.harvard.edu/annotated-transformer/#part-1-model-architecture) (60 min)
-4. [Rasa Algorithm Whiteboard - Transformers & Attention 1: Self Attention](https://www.youtube.com/watch?v=yGTUuEx3GkA) (10 min)
-5. [Rasa Algorithm Whiteboard - Transformers & Attention 2: Keys, Values, Queries](https://www.youtube.com/watch?v=tIvKXrEDMhk) (10 min)
+<!-- 1. [The Transformer by Mohammed Terry-Jack](https://medium.com/@b.terryjack/deep-learning-the-transformer-9ae5e9c5a190)
+2. [Language Modeling with Transformers, read from the Attention until the end](https://docs.google.com/document/d/1XJQT8PJYzvL0CLacctWcT0T5NfL7dwlCiIqRtdTcIqA/edit#heading=h.yiqylu6wmw91) (45 min) -->
+1. [Rasa Algorithm Whiteboard - Transformers & Attention 1: Self Attention](https://www.youtube.com/watch?v=yGTUuEx3GkA) (10 min)
+2. [Rasa Algorithm Whiteboard - Transformers & Attention 2: Keys, Values, Queries](https://www.youtube.com/watch?v=tIvKXrEDMhk) (10 min)
+3. [Rasa Algorithm Whiteboard - Transformers & Attention 3: Multi Head Attention](https://youtu.be/23XUv0T9L5c?si=mq8nn2mMlFdR8JTr) (10 min)
+4. [Rasa Algorithm Whiteboard: Transformers & Attention 4 - Transformers](https://youtu.be/EXNBy8G43MM?si=hD0pX1ElMmsQ8N3o) (10 min)
+5. [Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy (31:00 - 1:00:00)](https://youtu.be/XfpMkf4rD6E?si=v05ZdRJThRCmnGEw&t=615) (30 min)
 
 Learning Goals:
 
@@ -109,7 +97,6 @@ Learning Goals:
 2. Recognize if a research agenda advances general capabilities.
 3. Understand the variety of different research approaches tackling alignment.
 4. Understand how attention changed the landscape of natural language processing
-5. Recognize how attention is implemented with QKV vectors
 
 ## Week 5: Failure Modes in AI + Multi-Headed Attention
 
