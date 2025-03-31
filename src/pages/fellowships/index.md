@@ -55,4 +55,4 @@ For our governance fellowship, we do not enforce any particular requirements. Ho
 
 ## Apply
 
-Applications are not open yet for Spring 2025.
+Click [here](//forms.gle/A1fA5A6nbzvftRPY8) to apply to the technical fellowship. Applications are due **Friday, April 4, at 11:59pm**.
