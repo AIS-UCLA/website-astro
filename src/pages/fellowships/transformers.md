@@ -25,6 +25,7 @@ Technical Material (60 mins):
 
 1. [Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy (10:15 - 31:00)](https://youtu.be/XfpMkf4rD6E?si=v05ZdRJThRCmnGEw&t=615) (21 min)
 2. [PyTorch Tutorial (PyTorch)](https://pytorch.org/tutorials/beginner/basics/intro.html) (40 mins)
+3. [Classifying clothing in the Fashion MNIST with Tensorflow](https://www.tensorflow.org/tutorials/keras/classification) (30 mins)
 
 Learning Goals:
 
@@ -69,7 +70,7 @@ Technical Readings (< 120 mins):
 
 1. [Intro to Positional Encoding](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/) (60 min)
 2. [Code Emporium’s Positional Encoding Video](https://www.youtube.com/watch?v=ZMxVe-HK174) (10 min)
-3. [PyTorch’s Transformer Example](https://pytorch.org/tutorials/beginner/transformer_tutorial.html) (30 min)
+
 
 Learning Goals:
 
