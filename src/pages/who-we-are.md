@@ -31,7 +31,7 @@ Interests: Reinforcement Learning, Z3, Proof Solvers, Cybersecurity, Linux
 
 ## Steven Veld - Board Member
 
-Interests: compute governance, capabilities evaluations, forecasting
+Interests: chain-of-thought monitoring, technical AI governance, AI safety communications
 
 ## William Zhou - Board Member
 
