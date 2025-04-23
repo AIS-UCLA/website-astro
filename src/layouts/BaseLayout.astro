@@ -69,12 +69,15 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
     </script>
   </head>
   <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RTTEHHSKNL"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-RTTEHHSKNL"
+  ></script>
   <script is:inline>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-RTTEHHSKNL');
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+    gtag("config", "G-RTTEHHSKNL");
   </script>
   <body class="flex flex-col h-screen justify-between">
     <header class="py-6">
@@ -148,19 +151,39 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
                 </a>
                 <div class="dropdown-reveal hidden">
                   <a
-                    class={currentPath === "/upskilling-tracks/cuda" ? "active" : ""}
+                    class={currentPath === "/upskilling-tracks/cuda"
+                      ? "active"
+                      : ""}
                     href="/upskilling-tracks/cuda"
                   >
                     CUDA Track
                   </a>
+                </div>
+              </div>
+              <div class="dropdown">
+                <a
+                  class={currentPath === "/research" ? "active" : ""}
+                  href="/research"
+                >
+                  Research
+                </a>
+                <div class="dropdown-reveal hidden">
                   <a
-                    class={currentPath === "/upskilling-tracks/projects" ? "active" : ""}
-                    href="/upskilling-tracks/projects"
+                    class={currentPath === "/research/chain-of-thought"
+                      ? "active"
+                      : ""}
+                    href="/research/chain-of-thought"
                   >
-                    Past Projects
+                    Chain-of-Thought
                   </a>
                 </div>
               </div>
+              <a
+                class={currentPath === "/past-work" ? "active" : ""}
+                href="/past-work"
+              >
+                Past Work
+              </a>
               <div class="dropdown">
                 <a
                   class={currentPath === "/who-we-are" ? "active" : ""}
@@ -169,15 +192,15 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
                   Who We Are
                 </a>
                 <div class="dropdown-reveal hidden">
-                  <a href="//blog.aisafetyatucla.org/">
-                    Blog
-                  </a>
-                  <a href="//stats.ais-ucla.org/">
-                    Cluster Stats
-                  </a>
+                  <a href="//blog.aisafetyatucla.org/"> Blog</a>
+                  <a href="//stats.ais-ucla.org/"> Cluster Stats</a>
                 </div>
               </div>
-              <a class="text-slate-100 bg-slate-900 rounded-lg" target="_blank" href="//discord.gg/37TzSyrwmf">
+              <a
+                class="text-slate-100 bg-slate-900 rounded-lg"
+                target="_blank"
+                href="//discord.gg/37TzSyrwmf"
+              >
                 Join Us
               </a>
             </div>

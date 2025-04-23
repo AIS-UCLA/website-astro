@@ -15,6 +15,7 @@ title: Diffusion Fellowship
 6. [Week 6: Open Problems in AI X-Risk + Diffusion Models](#week-6-open-problems-in-ai-x-risk--diffusion-models)
 
 ## Week 1: Preventing an AI-related Catastrophe + Scaling Hypothesis
+
 <img src="https://github.com/user-attachments/assets/26bdee37-2bef-437f-bd42-c502f9cd9dcf" width="300">
 
 Core Readings: (70 mins)
@@ -29,6 +30,7 @@ Learning Goals:
    interpretability methods.
 
 ## Week 2: The future is going to be wild + Image Generation Mathematical Framework
+
 <img src="https://github.com/user-attachments/assets/eb3b09d5-4616-4adf-9778-94a4998cafdb" width="300">
 
 Core Content: (2h 15min)
@@ -63,6 +65,7 @@ Practical
 2. Understanding the intuition behind compression within autoencoders.
 
 ## Week 3: Introducing autoencoders, KL divergence, and unsolved Problems in AI Safety.
+
 <img src="https://github.com/user-attachments/assets/68bf23a3-1751-4268-8a7b-1bc9d96ece5a" width="300">
 
 Core Content: (1h 15 min)
@@ -87,6 +90,7 @@ Practical
 1. Establish an intuition of Kullback-Liebler (KL) divergence and what it means as a distance metric between random variables.
 
 ## Week 4: AI Safety Field Background + Deep dive into VAEs
+
 <img src="https://github.com/user-attachments/assets/25f6060e-fdc7-4abe-abd0-0be102b8c4f8" width="300">
 
 Core Readings: (1h 45 min)
@@ -97,6 +101,7 @@ Theoretical Readings (1h 15 mins):
 2. [Paul Christiano: Current work in AI alignment](https://forum.effectivealtruism.org/posts/63stBTw3WAW6k45dY/paul-christiano-current-work-in-ai-alignment) (30 min)
 
 Notebook Exercises (30 mins):
+
 1. [DDPM_part_2_vae.ipynb](https://gist.github.com/wz-ml/85456097ad443a6c493894ea295d4156) (30 min).
 
 Learning Goals:
@@ -106,8 +111,8 @@ Learning Goals:
 3. Learn about the variety of different research approaches tackling alignment.
 4. Understand the mechanics of Variational Autoencoder models and practice writing your own.
 
-
 ## Week 5: AI Alignment Failure Modes + Mathematics behind VAEs
+
 <img src="https://github.com/user-attachments/assets/9f06a329-6f91-4348-9e4c-1c215ab8778b" width="300">
 
 Core Readings: (1h 30 min)
@@ -129,6 +134,7 @@ Learning Goals:
 3. Understand the factors that lead to value lock-in.
 
 ## Week 6: Open Problems in AI X-Risk + Diffusion Models
+
 <img src="https://github.com/user-attachments/assets/f4ec5124-5eb9-4866-8723-c975460dc025" width="300">
 
 Core Readings: (2h)
@@ -148,8 +154,8 @@ Learning Goals:
 2. Understand the role AI governance plays in the broader field of AI safety.
 
 ## Final Reflection
+
 If you were to pursue a research question/topic in AI safety, what would it be?
 What area of AI safety do you find most interesting? What area of AI safety do you find most promising?
 
 Note: The DDPM notebook is incomplete (missing its training loop). Can you write it?
-

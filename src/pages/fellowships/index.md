@@ -16,11 +16,11 @@ in the lessons. You can expect to learn from many prevailing sources in the
 field which will help you develop a solid research agenda that you may work
 towards in the following quarters.
 
-In the 6-week technical fellowships, participants will complete about 3 hours 
-of core content outside of hour-long weekly meetings, split between conceptual 
-readings and technical content. In the 8-week governance fellowship, there is 
+In the 6-week technical fellowships, participants will complete about 3 hours
+of core content outside of hour-long weekly meetings, split between conceptual
+readings and technical content. In the 8-week governance fellowship, there is
 no mandatory time commitment outside of the two-hour weekly meetings, each of
-which will be equally split between readings and discussion. We encourage 
+which will be equally split between readings and discussion. We encourage
 participants to do some or all of the optional readings before each meeting
 to dive deeper on topics that interest them!
 
@@ -48,6 +48,7 @@ For our technical fellowships, we're looking for students who meet any of the fo
   course’s content.
 
 For our governance fellowship, we do not enforce any particular requirements. However, we are very excited to see participants who:
+
 - Have strong writing and communication ability
 - Are familiar with US policy (e.g., have engaged in policy research or an internship)
 - Have some familiarity with computer science or another technical field.
