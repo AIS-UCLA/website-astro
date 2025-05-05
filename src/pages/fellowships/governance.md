@@ -143,7 +143,7 @@ Paths to Success
 #### Core Content (~60 min):
 
 1. [The AI Triad and What It Means for National Security Strategy](https://cset.georgetown.edu/wp-content/uploads/CSET-AI-Triad-Report.pdf) (45 min)
-2. [Primer on Safety Standards and Regulations for Industrial-Scale AI Development](https://aisafetyfundamentals.com/blog/standards-and-regulations-primer) (15 min)
+2. [Artificial Intelligence Index Report 2025](https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf) section 6.1 - pgs 326-335 (15 min)
 
 #### Optional Additional Content:
 
@@ -151,6 +151,7 @@ Paths to Success
 2. [The Policy Playbook: Building a Systems-Oriented Approach to Technology and National Security Policy](https://cset.georgetown.edu/wp-content/uploads/The-Policy-Playbook.pdf) (45 min)
 3. [The Convergence of Artificial Intelligence and the Life Sciences: Safeguarding Technology](https://www.nti.org/wp-content/uploads/2023/10/NTIBIO_AI_FINAL.pdf) (8 min)
 4. [Historical Case Studies of Technology Governance and International Agreements](https://www.aisafetyfundamentals.com/blog/historical-case-studies/) (30 min)
+5. [Primer on Safety Standards and Regulations for Industrial-Scale AI Development](https://aisafetyfundamentals.com/blog/standards-and-regulations-primer) (15 min)
 
 #### Learning Goals:
 
