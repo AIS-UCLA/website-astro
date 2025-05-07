@@ -159,52 +159,44 @@ Paths to Success
 2. Learn about existing standards for AI
 3. Gain historical context on the successes and failures of past technology governance
 
-### Week 5: Existing Approaches -- Corporate Governance & Open vs. Closed Source
+### Week 5: Technical Governance and Concrete Scenarios
 
 #### Core Content (~60 min):
 
-1. [AI Index Report 2024, Chapter 7: Policy and Governance](https://aiindex.stanford.edu/wp-content/uploads/2024/04/HAI_AI-Index-Report-2024_Chapter_7.pdf) (20 min)
-2. [Meta's Chief AI Scientist Yann LeCun talks about the future of artificial intelligence](https://youtu.be/Ah6nR8YAYF4?si=yHTADyt3csu7gE3c) (6 min)
-3. [Open Sourcing Highly Capable Foundation Models](https://www.governance.ai/research-paper/open-sourcing-highly-capable-foundation-models) (34 min)
+1. [AI 2027](https://ai-2027.com/) (40 min)
+2. [Open Problems in Technical AI Governance](https://arxiv.org/pdf/2407.14981) (20 min)
 
 #### Optional Additional Content:
 
-US AI Policy
+Compute Governance
+1. [Computing Power and the Governance of AI](https://www.governance.ai/post/computing-power-and-the-governance-of-ai) (20 min)
+2. [Choking Off China’s Access to the Future of AI](https://www.csis.org/analysis/choking-chinas-access-future-ai) (15 min)
+3. [Computing Power and the Governance of AI](https://arxiv.org/abs/2402.08797) (45 min)
+4. [Primer on AI Chips and AI Governance](https://aisafetyfundamentals.com/blog/primer-on-ai-chips) (20 min)
 
-1. [Recent U.S. Efforts on AI Policy](https://www.cisa.gov/ai/recent-efforts) (8 min)
-2. [President Biden's Executive Order on AI](https://www.whitehouse.gov/briefing-room/statements-releases/2023/10/30/fact-sheet-president-biden-issues-executive-order-on-safe-secure-and-trustworthy-artificial-intelligence/) (10 min)
-
-Principles and Recommendations
-
-1. [The Bletchley Declaration](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023) (10 min)
-2. [UNESCO’s Recommendation on the Ethics of AI](https://unesdoc.unesco.org/ark:/48223/pf0000385082) (20 min)
-3. [OECD AI Principles](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449) (10 min)
-
-Open vs. Closed Source
-
-1. [A Pro-Innovation Approach to AI Regulation](https://www.gov.uk/government/consultations/ai-regulation-a-pro-innovation-approach-policy-proposals/outcome/a-pro-innovation-approach-to-ai-regulation-government-response#executive-summary) (30 min)
-2. [The Case for Uncensored Models](https://erichartford.com/uncensored-models) (5 min)
+AI Control 
+1. [Model Evaluation for Extreme Risks by Toby Shevlane](https://arxiv.org/pdf/2305.15324.pdf) (35 min) 
+2. [Societal Adaptation to Advanced AI](https://drive.google.com/file/d/1k3uqK0dR9hVyG20-eBkR75_eYP2efolS/view?usp=sharing) (40 min)
 
 #### Learning Goals:
 
-1. Understand the term "corporate governance," and existing policies held by AI labs
-2. Weigh the pros and cons of open-sourcing model weights
-3. Understand the government's role in the regulation of AI companies
+1. Ground AI policy goals in concrete AI scenarios and timelines.
+2. Understand the landscape of technical AI governance problems and research agendas.
 
-### Week 6: New Approaches -- Compute Governance & International Approaches
+### Week 6: International Governance and Ethical Standards
 
 #### Core Content (~60 min):
 
-1. [Computing Power and the Governance of AI](https://www.governance.ai/post/computing-power-and-the-governance-of-ai) (20 min)
-2. [What Should be Internationalized in AI Governance?](https://oms-www.files.svdcdn.com/production/downloads/What%20should%20be%20internationalised%20in%20AI%20Governance-final.pdf?dm=1731486256) (40 min)
+1. [What Should be Internationalized in AI Governance?](https://oms-www.files.svdcdn.com/production/downloads/What%20should%20be%20internationalised%20in%20AI%20Governance-final.pdf?dm=1731486256) (40 min)
+2. [UNESCO’s Recommendation on the Ethics of Artificial Intelligence](https://unesdoc.unesco.org/ark:/48223/pf0000385082) (20 min)
 
 #### Optional Additional Content:
 
 Compute Governance
 
-1. [Choking Off China’s Access to the Future of AI](https://www.csis.org/analysis/choking-chinas-access-future-ai) (15 min)
-2. [Computing Power and the Governance of AI](https://arxiv.org/abs/2402.08797) (45 min)
-3. [Primer on AI Chips and AI Governance](https://aisafetyfundamentals.com/blog/primer-on-ai-chips) (20 min)
+Ethical Standards
+1. [The Bletchley Declaration](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023) (10 min)
+2. [OECD AI Principles](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449) (10 min)
 
 Institutions and Policies
 
@@ -214,13 +206,10 @@ Institutions and Policies
 4. [Vision Statement of the US AI Safety Institute](https://www.nist.gov/system/files/documents/2024/05/21/AISI-vision-21May2024.pdf) (15 min)
 5. [International Institutions for Advanced AI](https://arxiv.org/abs/2307.04699) (20 min)
 
-AI Control 5. [Model Evaluation for Extreme Risks by Toby Shevlane](https://arxiv.org/pdf/2305.15324.pdf) (35 min) 6. [Societal Adaptation to Advanced AI](https://drive.google.com/file/d/1k3uqK0dR9hVyG20-eBkR75_eYP2efolS/view?usp=sharing) (40 min)
-
 #### Learning Goals:
 
-1. Understand the term "compute governance," and why regulating compute is a promising path for mitigating AI risk
-2. Survey existing international instiutions for AI, and proposals for new institutions
-3. Gain context on the state of AI in China, the US's primary competitor in the field
+1. Understand the conditions that warrant internationalized AI governance, and how it can be achieved.
+2. Survey existing international recommendations for AI ethics.
 
 ### Week 7: Looking Ahead
 
