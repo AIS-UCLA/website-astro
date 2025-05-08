@@ -216,9 +216,8 @@ Institutions and Policies
 #### Core Content (~60 min):
 
 1. [Career Profile: AI Governance and Policy by 80000 Hours](https://80000hours.org/career-reviews/ai-policy-and-strategy/) (15 min)
-2. [AI Governance Project Ideas – BlueDot Impact](https://aisafetyfundamentals.com/blog/ai-governance-project-ideas/) (10 min)
-3. [Collection of AI Governance Research Ideas - Markus Anderlung](https://www.markusanderljung.com/blog/a-collection-of-ai-governance-research-ideas-2024#WhyWMDsResilience) (20 min)
 4. [Advice for Undergraduates](https://emergingtechpolicy.org/pathways/undergraduate-advice/) (15 min)
+5. [AI Safety Policy Can't Go On Like This](https://writing.antonleicht.me/p/ai-safety-policy-cant-go-on-like) (30 min)
 
 #### Optional Additional Content:
 
@@ -233,6 +232,8 @@ Advice and Ideas
 2. [12 Tentative Ideas for U.S. AI Policy by Muehlhauser](https://www.openphilanthropy.org/research/12-tentative-ideas-for-us-ai-policy/) (5 min)
 3. [So You Want to Be a Policy Entrepreneur? by Michael Mintrom](https://www.tandfonline.com/doi/full/10.1080/25741292.2019.1675989) (40 min)
 4. [What's next in AI Governance](https://youtu.be/AbTXdXGyUPk?si=XXA6QJpn2uulRMj4) (58 min)
+5. [AI Governance Project Ideas – BlueDot Impact](https://aisafetyfundamentals.com/blog/ai-governance-project-ideas/) (10 min)
+6. [Collection of AI Governance Research Ideas - Markus Anderlung](https://www.markusanderljung.com/blog/a-collection-of-ai-governance-research-ideas-2024#WhyWMDsResilience) (20 min)
 
 Career Resources
 
