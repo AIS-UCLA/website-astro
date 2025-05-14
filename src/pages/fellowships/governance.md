@@ -17,8 +17,8 @@ title: AI Governance Fellowship
 ### Part 2: Introduction to AI Governance
 
 4. [Week 4: AI Policy Levers](#week-4-ai-policy-levers)
-5. [Week 5: Existing Approaches -- Corporate Governance & Open vs. Closed Source](#week-5-existing-approaches----corporate-governance--open-vs-closed-source)
-6. [Week 6: New Approaches -- Compute Governance & International Approaches](#week-6-new-approaches----compute-governance--international-approaches)
+5. [Week 5: Technical Governance and Concrete Scenarios](#week-5-technical-governance-and-concrete-scenarios)
+6. [Week 6: International Governance and Ethical Standards](#week-6-international-governance-and-ethical-standards)
 7. [Week 7: Looking Ahead](#week-7-looking-ahead)
 
 ## Part 1: Introduction to AI Safety
