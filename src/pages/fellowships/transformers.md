@@ -18,12 +18,12 @@ title: Transformers Fellowship
 
 Conceptual Readings (120 mins):
 
-1. [Deadly by Default: A primer on existential risk from artificial intelligence](https://homosabiens.substack.com/p/deadly-by-default) (60 min)
+1. [Deadly by Default: A primer on existential risk from artificial intelligence](https://homosabiens.substack.com/p/deadly-by-default) (60 mins)
 2. [Learn about the neural network architecture and gradient descent (Neural Networks Chapters 1-3, 3Blue1Brown)](https://www.3blue1brown.com/topics/neural-networks) (30 mins)
 
 Technical Material (60 mins):
 
-1. [Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy (10:15 - 31:00)](https://youtu.be/XfpMkf4rD6E?si=v05ZdRJThRCmnGEw&t=615) (21 min)
+1. [Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy (10:15 - 31:00)](https://youtu.be/XfpMkf4rD6E?si=v05ZdRJThRCmnGEw&t=615) (21 mins)
 2. [PyTorch Tutorial (PyTorch)](https://pytorch.org/tutorials/beginner/basics/intro.html) (40 mins)
 
 Learning Goals:
@@ -40,16 +40,16 @@ The progress of AI has been quite fast, AI today is quite capable, and AI has be
 Conceptual Readings (70 mins):
 
 1. [What risks does AI pose?](https://aisafetyfundamentals.com/blog/ai-risks/) (40 mins)
-2. [Learn about forward & backward propagation and LLM's (Neural Networks Chapters 4-6, 3Blue1Brown)](https://www.3blue1brown.com/topics/neural-networks) (30 mins)
+2. [Learn about forward & backpropagation and LLM's (Neural Networks Chapters 4-6, 3Blue1Brown)](https://www.3blue1brown.com/topics/neural-networks) (40 mins)
 
 Technical Material (< 60 mins):
 
-1. [Softmax Explained](https://youtu.be/ytbYRIN0N4g?si=iSZbjOTS8JoWzRwI) (17 min)
+1. [Softmax Explained](https://youtu.be/ytbYRIN0N4g?si=iSZbjOTS8JoWzRwI) (17 mins)
 
 
 Additional Optional Content (< 50 mins)
 
-4. [CS M146 - Generative AI by Prof. Aditya Grover](https://drive.google.com/file/d/17H96-lVGtg1HFsZ2pATY378cOXMsRPCr/view) (50 min)
+4. [CS M146 - Generative AI by Prof. Aditya Grover](https://drive.google.com/file/d/17H96-lVGtg1HFsZ2pATY378cOXMsRPCr/view) (50 mins)
 
 Learning Goals:
 
@@ -59,17 +59,16 @@ Learning Goals:
 
 ## Week 3: Unsolved Problems in ML Safety + Positional Encoding
 
-
-Conceptual (100 mins):
+Conceptual Readings (100 mins):
 
 1. [Unsolved Problems in ML Safety](https://arxiv.org/pdf/2109.13916.pdf) (60 min)
-2. [Gain a basic understanding of LLM's and Transformers (Neural Networks Chapters 7-9, 3Blue1Brown)](https://www.3blue1brown.com/topics/neural-networks) (40 min)
+2. [Gain a basic understanding of LLM's and Transformers (Neural Networks last 3 chapters, 3Blue1Brown)](https://www.3blue1brown.com/topics/neural-networks) (40 mins)
 
-Technical Readings (< 120 mins):
+Technical Material (< 120 mins):
 
-1. [Intro to Positional Encoding](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/) (60 min)
-2. [Code Emporium’s Positional Encoding Video](https://www.youtube.com/watch?v=ZMxVe-HK174) (10 min)
-3. [PyTorch’s Transformer Example](https://pytorch.org/tutorials/beginner/transformer_tutorial.html) (30 min)
+1. [Intro to Positional Encoding](https://machinelearningmastery.com/a-gentle-introduction-to-positional-encoding-in-transformer-models-part-1/) (60 mins)
+2. [Code Emporium’s Positional Encoding Video](https://www.youtube.com/watch?v=ZMxVe-HK174) (10 mins)
+
 
 Learning Goals:
 
@@ -81,15 +80,18 @@ Learning Goals:
 
 ## Week 4: Self-Attention + Transformers in-depth
 
-Technical Content (60 mins):
+Conceptual Readings (100 mins):
+
+
+
+Technical Material (< 120 mins):
 
 <!-- 1. [The Transformer by Mohammed Terry-Jack](https://medium.com/@b.terryjack/deep-learning-the-transformer-9ae5e9c5a190)
 2. [Language Modeling with Transformers, read from the Attention until the end](https://docs.google.com/document/d/1XJQT8PJYzvL0CLacctWcT0T5NfL7dwlCiIqRtdTcIqA/edit#heading=h.yiqylu6wmw91) (45 min) -->
 1. [Rasa Algorithm Whiteboard - Transformers & Attention 1: Self Attention](https://www.youtube.com/watch?v=yGTUuEx3GkA) (10 min)
 2. [Rasa Algorithm Whiteboard - Transformers & Attention 2: Keys, Values, Queries](https://www.youtube.com/watch?v=tIvKXrEDMhk) (10 min)
 3. [Rasa Algorithm Whiteboard - Transformers & Attention 3: Multi Head Attention](https://youtu.be/23XUv0T9L5c?si=mq8nn2mMlFdR8JTr) (10 min)
-4. [Rasa Algorithm Whiteboard: Transformers & Attention 4 - Transformers](https://youtu.be/EXNBy8G43MM?si=hD0pX1ElMmsQ8N3o) (10 min)
-5. [Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy (31:00 - 1:00:00)](https://youtu.be/XfpMkf4rD6E?si=v05ZdRJThRCmnGEw&t=615) (30 min)
+4. [Stanford CS25: V2 I Introduction to Transformers w/ Andrej Karpathy (31:00 - 1:00:00)](https://youtu.be/XfpMkf4rD6E?si=v05ZdRJThRCmnGEw&t=615) (30 min)
 
 Learning Goals:
 
@@ -105,14 +107,13 @@ Core readings (< 180 min):
 Conceptual Readings (55 min):
 
 1. [X-Risk Analysis for AI Research](https://arxiv.org/pdf/2206.05862) (Only read Appendix A) (10 min)
-2. [What Failure Looks Like](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like) (10 min)
 3. [Clarifying What Failure Looks Like](https://www.lesswrong.com/posts/v6Q7T335KCMxujhZu/clarifying-what-failure-looks-like-part-1) (25 mins)
+4. [Rasa Algorithm Whiteboard: Transformers & Attention 4 - Transformers](https://youtu.be/EXNBy8G43MM?si=hD0pX1ElMmsQ8N3o) (10 min)
 
 Technical Content (< 130 mins):
 
 1. [The Annotated Transformer read through the rest](https://nlp.seas.harvard.edu/annotated-transformer/#part-2-model-training) (100 min)
-2. [Rasa Algorithm Whiteboard - Transformers & Attention 3: Multi Head Attention](https://www.youtube.com/watch?v=23XUv0T9L5c&feature=youtu.be) (10 min)
-3. [The BERT Paper skim through to understand the architecture of real-world models](https://arxiv.org/pdf/1810.04805.pdf) (30 min)
+3. [The BERT model](https://www.geeksforgeeks.org/explanation-of-bert-model-nlp/) (20 min)
 
 Learning Goals:
 
