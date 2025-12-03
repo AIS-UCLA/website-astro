@@ -21,14 +21,6 @@ Interests: Computer Vision, Multimodal AI, RAG, doomscrolling
 
 Interests: Time series forecasting, NLU, quantum computing
 
-## Christopher Milan - President
-
-Interests: Mathematics, Systems Programming, Programming Languages, Infrastructure
-
-## Govind Pimpale - Board Member
-
-Interests: Reinforcement Learning, Z3, Proof Solvers, Cybersecurity, Linux
-
 ## Steven Veld - Board Member
 
 Interests: Chain-of-Thought Monitoring, Technical AI Governance, AI Safety Communications
