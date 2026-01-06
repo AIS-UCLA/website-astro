@@ -160,24 +160,6 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
                   </a>
                 </div>
               </div>
-              <div class="dropdown">
-                <a
-                  class={currentPath === "/research" ? "active" : ""}
-                  href="/research"
-                >
-                  Research
-                </a>
-                <div class="dropdown-reveal hidden">
-                  <a
-                    class={currentPath === "/research/chain-of-thought"
-                      ? "active"
-                      : ""}
-                    href="/research/chain-of-thought"
-                  >
-                    Chain-of-Thought
-                  </a>
-                </div>
-              </div>
               <a
                 class={currentPath === "/past-work" ? "active" : ""}
                 href="/past-work"

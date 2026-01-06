@@ -9,7 +9,6 @@ title: AI Governance Fellowship
 
 ### Part 1: Introduction AI Safety
 
-0. [Week 0: Overview, Ethos, and Social](#week-0-overview-ethos-and-social)
 1. [Week 1: Artificial Intelligence -- How it Works and What it Can Achieve](#week-1-artificial-intelligence----how-it-works-and-what-it-can-achieve)
 2. [Week 2: Catastrophic Risk from AI](#week-2-catastrophic-risk-from-ai)
 3. [Week 3: AI Safety -- Goals and Challenges](#week-3-ai-safety----goals-and-challenges)
@@ -22,23 +21,6 @@ title: AI Governance Fellowship
 7. [Week 7: Looking Ahead](#week-7-looking-ahead)
 
 ## Part 1: Introduction to AI Safety
-
-### Week 0: Overview, Ethos, and Social
-
-#### Core Content (~10 min):
-
-1. [Fellowship Curriculum (this page)](#ai-safety-at-ucla-intro-fellowship-governance-track)
-
-#### Optional Additional Content:
-
-1. [Scope Insensitivity](https://www.lesswrong.com/posts/2ftJ38y9SRBCBsCzy/scope-insensitivity) (10 min)
-2. [European Union AI Act](https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence) (10 min)
-
-#### Learning Goals:
-
-1. Get to know the fellowship and each other!
-2. Get a flavor for the ethos and motivations of the fellowship
-3. Optionally, get acquainted with recent AI legislation
 
 ### Week 1: Artificial Intelligence -- How it Works and What it Can Achieve
 

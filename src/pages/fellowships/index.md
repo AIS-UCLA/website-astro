@@ -18,20 +18,11 @@ towards in the following quarters.
 
 In the 6-week technical fellowships, participants will complete about 3 hours
 of core content outside of hour-long weekly meetings, split between conceptual
-readings and technical content. In the 8-week governance fellowship, there is
-no mandatory time commitment outside of the two-hour weekly meetings, each of
-which will be equally split between readings and discussion. We encourage
-participants to do some or all of the optional readings before each meeting
-to dive deeper on topics that interest them!
+readings and technical content. In the 7-week governance fellowship, participants 
+will complete  1-2 hours of reading outside of hour-long weekly meetings.
 
 ### Curriculum Options
 
-Since Fall 2023, we have started offering multiple tracks for our intro
-fellowships. Click on the links below to explore each tracks' associated
-curricula:
-
-- [Computer Vision](/fellowships/cv)
-- [Diffusion](/fellowships/diffusion)
 - [Reinforcement Learning](/fellowships/rl)
 - [Transformers](/fellowships/transformers)
 - [Governance](/fellowships/governance)
@@ -52,10 +43,9 @@ For our governance fellowship, we do not enforce any particular requirements. Ho
 - Have strong writing and communication ability
 - Are familiar with US policy (e.g., have engaged in policy research or an internship)
 - Have some familiarity with computer science or another technical field.
-- Once again, these are not enforced! We encourage all participants to apply, because interest and motivation are the two traits we care most about.
 
 ## Apply
 
-Click [here](https://forms.gle/7TgLDERCFpotfBrM6) to apply to the technical fellowship. Applications are due **Saturday, October 4, at 11:59pm**.
+Click [here](https://forms.gle/7TgLDERCFpotfBrM6) to apply to the technical fellowship. Applications are due **Friday, January 16, at 11:59pm**.
 
-Click [here](https://forms.gle/H8subiphfzfmzbpq9) to apply to the governance fellowship. Applications are due **Saturday, October 4, at 11:59pm**.
+Click [here](https://docs.google.com/forms/d/e/1FAIpQLSdOojy3jUNvkkYr8S8o-0JGUsB6Vv67xfBw2f6Sp-web3lXPg/viewform?usp=publish-editor) to apply to the governance fellowship. Applications are due **Friday, January 16 at 11:59pm**.
