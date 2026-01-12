@@ -7,40 +7,40 @@ title: AI Governance Fellowship
 
 ## Table of Contents
 
-### Part 1: Introduction AI Safety
+### Part 1: Introduction to AI Safety
 
 1. [Week 1: Artificial Intelligence -- How it Works and What it Can Achieve](#week-1-artificial-intelligence----how-it-works-and-what-it-can-achieve)
-2. [Week 2: Catastrophic Risk from AI](#week-2-catastrophic-risk-from-ai)
-3. [Week 3: AI Safety -- Goals and Challenges](#week-3-ai-safety----goals-and-challenges)
+2. [Week 2: Loss of Control](#week-2-loss-of-control)
+3. [Week 3: Concentration of Power & Gradual Disempowerment](#week-3-concentration-of-power-&-gradual-disempowerment)
 
 ### Part 2: Introduction to AI Governance
 
-4. [Week 4: AI Policy Levers](#week-4-ai-policy-levers)
-5. [Week 5: Technical Governance and Concrete Scenarios](#week-5-technical-governance-and-concrete-scenarios)
-6. [Week 6: International Governance and Ethical Standards](#week-6-international-governance-and-ethical-standards)
-7. [Week 7: Looking Ahead](#week-7-looking-ahead)
+4. [Week 4: Domestic AI Governance](#week-4-domestic-ai-governance)
+5. [Week 5: International AI Governance](#week-5-international-ai-governance)
+6. [Week 6: Technical AI Governance & Careers in AI Governance](#week-6-technical-ai-governance-&-careers-in-ai-governance)
 
 ## Part 1: Introduction to AI Safety
 
 ### Week 1: Artificial Intelligence -- How it Works and What it Can Achieve
 
-#### Core Content (~60 min):
+#### Core Content (120 min):
 
 1. [Andrej Karpathy - Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g) (60 min)
+2. [Machines of Loving Grace](https://www.darioamodei.com/essay/machines-of-loving-grace) (60 min)
 
 #### Optional Additional Content:
 
 AI History
 
-1. [Visualizing the Deep Learning Revolution by Richard Ngo](https://medium.com/@richardcngo/visualizing-the-deep-learning-revolution-722098eb9c5) (20 min)
-2. [Nvidia: The chip maker that became an AI superpower](https://www.bbc.co.uk/news/business-65675027) (5 min)
-3. [Compute Trends Across Three Eras of Machine Learning](https://epochai.org/blog/compute-trends) (10 min)
+1. [Visualizing the Deep Learning Revolution by Richard Ngo](https://medium.com/@richardcngo/visualizing-the-deep-learning-revolution-722098eb9c5)
+2. [Nvidia: The chip maker that became an AI superpower](https://www.bbc.co.uk/news/business-65675027)
+3. [Compute Trends Across Three Eras of Machine Learning](https://epochai.org/blog/compute-trends)
 
 How AI Works
 
-1. [AI, Machine Learning, and Deep Learning](https://blogs.nvidia.com/blog/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/) (10 min)
-2. [Gradient Descent: How Neural Networks Learn | Chapter 2, Deep Learning](https://youtu.be/IHZwWFHWa-w) (20 min)
-3. [What is Self Supervised Learning?](https://youtu.be/sJzuNAisXHA) (5 min)
+1. [AI, Machine Learning, and Deep Learning](https://blogs.nvidia.com/blog/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
+2. [Gradient Descent: How Neural Networks Learn | Chapter 2, Deep Learning](https://youtu.be/IHZwWFHWa-w)
+3. [What is Self Supervised Learning?](https://youtu.be/sJzuNAisXHA)
 
 AI Futures
 
@@ -48,184 +48,96 @@ AI Futures
 2. [Forecasting Transformative AI, Part 1: What Kind of AI?](https://www.cold-takes.com/transformative-ai-timelines-part-1-of-4-what-kind-of-ai/)
 3. [The Transformative Potential of AGI – and When It Might Arrive by Shane Legg and Chris Anderson](https://youtu.be/kMUdrUP-QCs?feature=shared&t=109)
 
-#### Learning Goals:
+### Week 2: Loss of Control
 
-1. Understand the technical backbone of modern AI models
-2. Build a sense of why these technical details are relevant to AI policy, in the context of the AI triad (compute, data, and algorithms)
-3. Begin to think about what risks might be posed by AI
+#### Core Content (120 min):
 
-### Week 2: Catastrophic Risk from AI
-
-#### Core Content (~60 min):
-
-1. [Existential Risk from Power-Seeking AI](https://jc.gatspress.com/pdf/existential_risk_and_powerseeking_ai.pdf) (60 min)
+1. [AGI Safety from First Principles](https://drive.google.com/file/d/1uK7NhdSKprQKZnRjU58X7NLA1auXlWHt/view) (60 min)
+2. [AI 2027, race ending](https://ai-2027.com/race) (60 min)
 
 #### Optional Additional Content:
 
 First Principles AI Safety
 
-1. [AGI Safety from First Principles](https://drive.google.com/file/d/1uK7NhdSKprQKZnRjU58X7NLA1auXlWHt/view)
+1. [Existential Risk from Power-Seeking AI](https://jc.gatspress.com/pdf/existential_risk_and_powerseeking_ai.pdf)
 2. [Why Would AI Want to do Bad Things? Instrumental Convergence](https://aisafetyfundamentals.com/blog/why-might-misaligned-advanced-ai-cause-catastrophe-compilation/)
-3. [Why AI Alignment Could Be Hard with Modern Deep Learning by Ajeya Cotra](https://docs.google.com/document/d/12Ly6VZ9917n84ffX5Ds-_J-ojkE5nUp-nyrnILTT48o/edit) (20 min)
+3. [Why AI Alignment Could Be Hard with Modern Deep Learning by Ajeya Cotra](https://docs.google.com/document/d/12Ly6VZ9917n84ffX5Ds-_J-ojkE5nUp-nyrnILTT48o/edit)
 
 Surveys of AI Risks
 
-1. [AI Risks that Could Lead to Catastrophe | CAIS](https://www.safe.ai/ai-risk) (25 min)
-2. [Preventing an AI-Related Catastrophe - 80,000 Hours](https://80000hours.org/problem-profiles/artificial-intelligence/#top) (60 min)
+1. [AI Risks that Could Lead to Catastrophe | CAIS](https://www.safe.ai/ai-risk)
+2. [Preventing an AI-Related Catastrophe - 80,000 Hours](https://80000hours.org/problem-profiles/artificial-intelligence/#top)
 
 Concrete Scenarios
 
-1. [What Failure Looks Like by Paul Christiano](https://www.lesswrong.com/posts/HBxe6wdjxK239zajf/what-failure-looks-like) (20 min)
-2. [Auto-GPT and AI Race Acceleration by The AI Beat](https://venturebeat.com/ai/as-ai-agents-like-auto-gpt-speed-up-generative-ai-race-we-all-need-to-buckle-up-the-ai-beat/) (10 min)
-3. [The True Story of How GPT-2 Became Maximally Lewd](https://youtu.be/qV_rOlHjvvs?si=Y3li7yEXmQ-L7z0i) (14 min)
+1. [What Failure Looks Like by Paul Christiano](https://www.lesswrong.com/posts/HBxe6wdjxK239zajf/what-failure-looks-like)
+2. [Auto-GPT and AI Race Acceleration by The AI Beat](https://venturebeat.com/ai/as-ai-agents-like-auto-gpt-speed-up-generative-ai-race-we-all-need-to-buckle-up-the-ai-beat/)
+3. [The True Story of How GPT-2 Became Maximally Lewd](https://youtu.be/qV_rOlHjvvs?si=Y3li7yEXmQ-L7z0i)
 
-#### Learning Goals:
+### Week 3: Concentration of Power & Gradual Disempowerment
 
-1. Understand the core arguments for existential risk from AI
-2. Begin to form an idea of the different paths to reducing AI risk
-3. Visualize how the techniques used to train AI directly contribute to potential bad outcomes
+#### Core Content (120 min):
 
-### Week 3: AI Safety -- Goals and Challenges
-
-#### Core Content (~60 min):
-
-1. [Paradigms of AI Alignment: Components and Enablers](https://www.youtube.com/watch?v=ogck1GCSP0E) (34 min)
-2. [Avoiding Extreme Global Vulnerability as a Core AI Governance Problem](https://aisafetyfundamentals.com/blog/global-vulnerability/) (10 min)
-3. [AI Safety Seems Hard to Measure](https://www.cold-takes.com/ai-safety-seems-hard-to-measure/) (16 min)
+1. [AI Enabled Coups: How a Small Group Could Use AI to Seize Power](https://www.forethought.org/research/ai-enabled-coups-how-a-small-group-could-use-ai-to-seize-power) (60 min)
+2. [Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development](https://arxiv.org/pdf/2501.16946) (60 min)
 
 #### Optional Additional Content:
 
-AI Safety Neglectedness
-
-1. [Nobody's on the Ball on AI Alignment](https://www.forourposterity.com/nobodys-on-the-ball-on-agi-alignment/) (15 min)
-2. [The Need for Work on Technical AI Alignment by Daniel Eth](https://aisafetyfundamentals.com/blog/alignment-introduction) (25 min)
-
-What Could Go Wrong
-
-1. [AGI Ruin: A List of Lethalities](https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities) (20 min)
-2. [Rogue AIs by the Center for AI Safety](https://www.aisafetybook.com/textbook/rogue-ai) (35 min)
-3. [Racing through a minefield: the AI deployment problem](https://www.cold-takes.com/racing-through-a-minefield-the-ai-deployment-problem/) (18 min)
-
-Paths to Success
-
-1. [Paradigms of AI Alignment: Components and Enablers](https://youtu.be/ZeecOKBus3Q) (34 min)
-2. [Managing Extreme AI Risks Amid Rapid Progress](https://arxiv.org/abs/2310.17688) (20 min)
-3. [What is AI Alignment? – BlueDot Impact](https://aisafetyfundamentals.com/blog/what-is-ai-alignment/) (10 min)
-
-#### Learning Goals:
-
-1. Understand the term "AI alignment" -- what it means, and paths to achieving it
-2. Understand the difficulties that arise when trying to align powerful AI models
-3. Build a framework for the various factors that exascerbate AI risk, and how each of these could potentially be mitigated
+1. [How an AI company CEO could quietly take over the world](https://blog.ai-futures.org/p/how-an-ai-company-ceo-could-quietly)
+2. [Extreme power concentration](https://80000hours.org/problem-profiles/extreme-power-concentration/)
+3. [Gradual Disempowerment](https://80000hours.org/problem-profiles/gradual-disempowerment/)
 
 ## Part 2: Introduction to AI Governance
 
-### Week 4: AI Policy Levers
+### Week 4: Domestic AI Governance
 
-#### Core Content (~60 min):
+#### Core Content (100 min):
 
-1. [The AI Triad and What It Means for National Security Strategy](https://cset.georgetown.edu/wp-content/uploads/CSET-AI-Triad-Report.pdf) (45 min)
-2. [Artificial Intelligence Index Report 2025](https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf) section 6.1 - pgs 326-335 (15 min)
-
-#### Optional Additional Content:
-
-1. [Strengthening Resilience to AI Risk: A Guide for UK Policymakers](https://cetas.turing.ac.uk/sites/default/files/2023-08/cetas-cltr_ai_risk_briefing_paper.pdf) (30 min)
-2. [The Policy Playbook: Building a Systems-Oriented Approach to Technology and National Security Policy](https://cset.georgetown.edu/wp-content/uploads/The-Policy-Playbook.pdf) (45 min)
-3. [The Convergence of Artificial Intelligence and the Life Sciences: Safeguarding Technology](https://www.nti.org/wp-content/uploads/2023/10/NTIBIO_AI_FINAL.pdf) (8 min)
-4. [Historical Case Studies of Technology Governance and International Agreements](https://www.aisafetyfundamentals.com/blog/historical-case-studies/) (30 min)
-5. [Primer on Safety Standards and Regulations for Industrial-Scale AI Development](https://aisafetyfundamentals.com/blog/standards-and-regulations-primer) (15 min)
-
-#### Learning Goals:
-
-1. Understand the direct implications of the AI triad for policy
-2. Learn about existing standards for AI
-3. Gain historical context on the successes and failures of past technology governance
-
-### Week 5: Technical Governance and Concrete Scenarios
-
-#### Core Content (~60 min):
-
-1. [AI 2027](https://ai-2027.com/) (40 min)
-2. [Open Problems in Technical AI Governance](https://arxiv.org/pdf/2407.14981) (20 min)
+1. [AI Safety, Ethics, and Society: Sections 8.1 (Governance), 8.3 (Distribution), 8.4 (Corporate Governance), and 8.5 (National Governance)](https://www.aisafetybook.com/textbook/governance) (45 min)
+2. [Frontier AI Regulation: Managing Emerging Risks to Public Safety: Executive Summary, Sections 3 and 4](https://arxiv.org/pdf/2307.03718) (45 min)
+3. [California’s SB 53: The First Frontier AI Law, Explained](https://fpf.org/blog/californias-sb-53-the-first-frontier-ai-law-explained/) (10 min)
 
 #### Optional Additional Content:
 
-Compute Governance
-1. [Computing Power and the Governance of AI](https://www.governance.ai/post/computing-power-and-the-governance-of-ai) (20 min)
-2. [Choking Off China’s Access to the Future of AI](https://www.csis.org/analysis/choking-chinas-access-future-ai) (15 min)
-3. [Computing Power and the Governance of AI](https://arxiv.org/abs/2402.08797) (45 min)
-4. [Primer on AI Chips and AI Governance](https://aisafetyfundamentals.com/blog/primer-on-ai-chips) (20 min)
+1. [The AI Triad and What It Means for National Security Strategy](https://cset.georgetown.edu/wp-content/uploads/CSET-AI-Triad-Report.pdf)
+2. [The Policy Playbook: Building a Systems-Oriented Approach to Technology and National Security Policy](https://cset.georgetown.edu/wp-content/uploads/The-Policy-Playbook.pdf)
+3. [Primer on Safety Standards and Regulations for Industrial-Scale AI Development](https://aisafetyfundamentals.com/blog/standards-and-regulations-primer)
 
-AI Control 
-1. [Model Evaluation for Extreme Risks by Toby Shevlane](https://arxiv.org/pdf/2305.15324.pdf) (35 min) 
-2. [Societal Adaptation to Advanced AI](https://drive.google.com/file/d/1k3uqK0dR9hVyG20-eBkR75_eYP2efolS/view?usp=sharing) (40 min)
+### Week 5: International AI Governance
 
-#### Learning Goals:
+#### Core Content (120 min):
 
-1. Ground AI policy goals in concrete AI scenarios and timelines.
-2. Understand the landscape of technical AI governance problems and research agendas.
-
-### Week 6: International Governance and Ethical Standards
-
-#### Core Content (~60 min):
-
-1. [What Should be Internationalized in AI Governance?](https://oms-www.files.svdcdn.com/production/downloads/What%20should%20be%20internationalised%20in%20AI%20Governance-final.pdf?dm=1731486256) (40 min)
-2. [UNESCO’s Recommendation on the Ethics of Artificial Intelligence](https://unesdoc.unesco.org/ark:/48223/pf0000385082) (20 min)
+1. [Historical case studies of technology governance and international agreements](https://blog.bluedot.org/p/historical-case-studies) (20 min)
+2. [AI Safety, Ethics, and Society: Section 8.6 (International Governance)](https://www.aisafetybook.com/textbook/international-governance) (20 min)
+3. [Analysis of Global AI Governance Strategies](https://www.convergenceanalysis.org/research/analysis-of-global-ai-governance-strategies) (40 min)
+4. [High-Level Summary of the EU AI Act](https://artificialintelligenceact.eu/high-level-summary/) (10 min)
 
 #### Optional Additional Content:
 
-Compute Governance
+1. [Artificial Intelligence Index Report 2025](https://hai-production.s3.amazonaws.com/files/hai_ai_index_report_2025.pdf) section 6.1 - pgs 326-335
+2. [Strengthening Resilience to AI Risk: A Guide for UK Policymakers](https://cetas.turing.ac.uk/sites/default/files/2023-08/cetas-cltr_ai_risk_briefing_paper.pdf)
+3. [China’s AI Regulations and How They Get Made](https://carnegieendowment.org/2023/07/10/china-s-ai-regulations-and-how-they-get-made-pub-90117)
+4. [International Institutions for Advanced AI](https://arxiv.org/abs/2307.04699)
+5. [The Bletchley Declaration](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
+6. [OECD AI Principles](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449)
 
-Ethical Standards
-1. [The Bletchley Declaration](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023) (10 min)
-2. [OECD AI Principles](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449) (10 min)
+### Week 6: Technical AI Governance & Careers in AI Governance
 
-Institutions and Policies
+#### Core Content (100 min):
 
-1. [China’s AI Regulations and How They Get Made](https://carnegieendowment.org/2023/07/10/china-s-ai-regulations-and-how-they-get-made-pub-90117) (20 min)
-2. [Driving U.S. Innovation in Artificial Intelligence: A Roadmap for AI Policy](https://www.politico.com/f/?id=0000018f-79a9-d62d-ab9f-f9af975d0000) (30 min)
-3. [High-Level Summary of the AI Act](https://artificialintelligenceact.eu/high-level-summary/) (10 min)
-4. [Vision Statement of the US AI Safety Institute](https://www.nist.gov/system/files/documents/2024/05/21/AISI-vision-21May2024.pdf) (15 min)
-5. [International Institutions for Advanced AI](https://arxiv.org/abs/2307.04699) (20 min)
-
-#### Learning Goals:
-
-1. Understand the conditions that warrant internationalized AI governance, and how it can be achieved.
-2. Survey existing international recommendations for AI ethics.
-
-### Week 7: Looking Ahead
-
-#### Core Content (~60 min):
-
-1. [Career Profile: AI Governance and Policy by 80000 Hours](https://80000hours.org/career-reviews/ai-policy-and-strategy/) (15 min)
-4. [Advice for Undergraduates](https://emergingtechpolicy.org/pathways/undergraduate-advice/) (15 min)
-5. [AI Safety Policy Can't Go On Like This](https://writing.antonleicht.me/p/ai-safety-policy-cant-go-on-like) (30 min)
+1. [Computing Power and the Governance of AI](https://www.governance.ai/post/computing-power-and-the-governance-of-ai) (10 min)
+2. [Open Problems in Technical AI Governance: Sections 1, 2, and one section from 3-8](https://arxiv.org/pdf/2407.14981) (40 min)
+3. [AI governance and policy | Career review](https://80000hours.org/career-reviews/ai-policy-and-strategy/) (50 min)
 
 #### Optional Additional Content:
 
-Skills to Build
+Technical AI Governance
 
-1. [10 skills you need to grow your public policy career](https://onlinecourses.bsg.ox.ac.uk/blog/public-policy-skills-you-need-to-grow-your-career/)
+1. [Choking Off China’s Access to the Future of AI](https://www.csis.org/analysis/choking-chinas-access-future-ai)
+2. [Primer on AI Chips and AI Governance](https://aisafetyfundamentals.com/blog/primer-on-ai-chips) 
+3. [An International Agreement to Prevent the Premature Creation of Artificial Superintelligence](https://arxiv.org/pdf/2511.10783)
+
+Careers in AI Governance
+1. [Advice for Undergraduates](https://emergingtechpolicy.org/pathways/undergraduate-advice/)
 2. [Aptitudes for AI Governance Work](https://forum.effectivealtruism.org/posts/ozSBaNLysue9MmFqs/aptitudes-for-ai-governance-work)
-
-Advice and Ideas
-
-1. [Advice for Seeking Full-Time Roles](https://emergingtechpolicy.org/pathways/full-time-roles/) (8 min)
-2. [12 Tentative Ideas for U.S. AI Policy by Muehlhauser](https://www.openphilanthropy.org/research/12-tentative-ideas-for-us-ai-policy/) (5 min)
-3. [So You Want to Be a Policy Entrepreneur? by Michael Mintrom](https://www.tandfonline.com/doi/full/10.1080/25741292.2019.1675989) (40 min)
-4. [What's next in AI Governance](https://youtu.be/AbTXdXGyUPk?si=XXA6QJpn2uulRMj4) (58 min)
-5. [AI Governance Project Ideas – BlueDot Impact](https://aisafetyfundamentals.com/blog/ai-governance-project-ideas/) (10 min)
-6. [Collection of AI Governance Research Ideas - Markus Anderlung](https://www.markusanderljung.com/blog/a-collection-of-ai-governance-research-ideas-2024#WhyWMDsResilience) (20 min)
-
-Career Resources
-
-1. [Career Resources on US AI Policy](https://www.agisf.com/governance-blog/us-ai-policy-careers) (5 min)
-2. [Career Resources on US AI Strategy Research](https://www.agisf.com/governance-blog/ai-strategy-careers) (12 min)
-3. [AI Policy Resources](https://emergingtechpolicy.org/areas/ai-policy/)
-4. [AI Safety Career Opportunities Job Board](https://jobs.80000hours.org/?refinementList%5Btags_area%5D%5B0%5D=AI%20safety%20%26%20policy&utm_source=aisf)
-
-#### Learning Goals:
-
-1. Understand what careers exist in the AI governance space, and the skills required for each
-2. Browse proposals for AI governance and take note of the ones you may be interested in pursuing
-3. Understand the resources available to you if you are interested in pursuing AI governance
+3. [AI Safety Career Opportunities Job Board](https://jobs.80000hours.org/?refinementList%5Btags_area%5D%5B0%5D=AI%20safety%20%26%20policy)
