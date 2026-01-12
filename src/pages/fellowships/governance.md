@@ -5,6 +5,8 @@ title: AI Governance Fellowship
 
 # AI Safety at UCLA Intro Fellowship: Governance Track
 
+[Apply](https://docs.google.com/forms/d/e/1FAIpQLSdOojy3jUNvkkYr8S8o-0JGUsB6Vv67xfBw2f6Sp-web3lXPg/viewform?usp=header) by EOD Friday, January 16! Fellowship acceptance decisions will be sent out be EOD Sunday, January 18, and the fellowship will begin on Week 3 (Jan 19-23).
+
 ## Table of Contents
 
 ### Part 1: Introduction to AI Safety
