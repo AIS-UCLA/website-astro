@@ -9,17 +9,9 @@ title: Who We Are
 
 Interests: ML Systems, Multi-GPU Programming
 
-## Raayan Dhar - Board Member
+## Matthew Day - Board Member
 
-Interests: Machine learning
-
-## Travis Ha - Board Member
-
-Interests: Computer Vision, Multimodal AI, RAG, doomscrolling
-
-## Tejas Kamtam - Board Member
-
-Interests: Time series forecasting, NLU, quantum computing
+Interests: Export Controls, Labor Market Impacts, AI Investments
 
 ## Steven Veld - Board Member
 
