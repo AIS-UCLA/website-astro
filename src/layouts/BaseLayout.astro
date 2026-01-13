@@ -166,6 +166,14 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
                   >
                     IABIED Reading Group
                   </a>
+                  <a
+                    class={currentPath === "/continuing-tracks/paper"
+                      ? "active"
+                      : ""}
+                    href="/continuing-tracks/paper"
+                  >
+                    Technical Paper Reading Group
+                  </a>
                 </div>
               </div>
               <a
@@ -221,6 +229,7 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
             <a href="/continuing-tracks">Continuing Tracks:</a>
             <a href="/continuing-tracks/cuda">CUDA</a>
             <a href="/continuing-tracks/iabied">IABIED Reading Group</a>
+            <a href="/continuing-tracks/iabied">Technical Paper Reading Group</a>
             <hr />
             <a href="/past-work">Past Work</a>
             <hr />

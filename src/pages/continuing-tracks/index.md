@@ -17,3 +17,4 @@ Curricula:
 
 - [CUDA Track](/continuing-tracks/cuda)
 - [IABIED Reading Group](/continuing-tracks/iabied)
+- [Technical Paper Reading Group](/continuing-tracks/paper)
