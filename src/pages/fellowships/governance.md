@@ -13,13 +13,13 @@ title: AI Governance Fellowship
 
 1. [Week 1: Artificial Intelligence -- How it Works and What it Can Achieve](#week-1-artificial-intelligence----how-it-works-and-what-it-can-achieve)
 2. [Week 2: Loss of Control](#week-2-loss-of-control)
-3. [Week 3: Concentration of Power & Gradual Disempowerment](#week-3-concentration-of-power-&-gradual-disempowerment)
+3. [Week 3: Concentration of Power & Gradual Disempowerment](#week-3-concentration-of-power-and-gradual-disempowerment)
 
 ### Part 2: Introduction to AI Governance
 
 4. [Week 4: Domestic AI Governance](#week-4-domestic-ai-governance)
 5. [Week 5: International AI Governance](#week-5-international-ai-governance)
-6. [Week 6: Technical AI Governance & Careers in AI Governance](#week-6-technical-ai-governance-&-careers-in-ai-governance)
+6. [Week 6: Technical AI Governance & Careers in AI Governance](#week-6-technical-ai-governance-and-careers-in-ai-governance)
 
 ## Part 1: Introduction to AI Safety
 
@@ -76,7 +76,7 @@ Concrete Scenarios
 2. [Auto-GPT and AI Race Acceleration by The AI Beat](https://venturebeat.com/ai/as-ai-agents-like-auto-gpt-speed-up-generative-ai-race-we-all-need-to-buckle-up-the-ai-beat/)
 3. [The True Story of How GPT-2 Became Maximally Lewd](https://youtu.be/qV_rOlHjvvs?si=Y3li7yEXmQ-L7z0i)
 
-### Week 3: Concentration of Power & Gradual Disempowerment
+### Week 3: Concentration of Power and Gradual Disempowerment
 
 #### Core Content (120 min):
 
@@ -123,7 +123,7 @@ Concrete Scenarios
 5. [The Bletchley Declaration](https://www.gov.uk/government/publications/ai-safety-summit-2023-the-bletchley-declaration/the-bletchley-declaration-by-countries-attending-the-ai-safety-summit-1-2-november-2023)
 6. [OECD AI Principles](https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449)
 
-### Week 6: Technical AI Governance & Careers in AI Governance
+### Week 6: Technical AI Governance and Careers in AI Governance
 
 #### Core Content (100 min):
 
