@@ -5,6 +5,8 @@ title: CUDA Track
 
 # AI Safety Upskilling: CUDA Track
 
+Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdWScN2ahgQfXRIb8w39YM8q-ekgEaaApfyJK3f6gEuqqYcAw/viewform?usp=publish-editor) by EOD Monday, January 19!
+
 ## Table of Contents
 
 1. [Week 1: Intro to GPUs and writing your first kernel!](#week-1-intro-to-gpus-and-writing-your-first-kernel)

@@ -12,9 +12,10 @@ Upskilling tracks are intensive quarter-long programs designed to help you devel
 Reading groups are quarter-long programs designed to delve further into relevant AI safety concepts and research with other engaged participants. We offer two reading groups. The first reading group is built around the bestselling book, *If Anyone Builds It, Everyone Dies* (IABIED): we will interrogate the claims made in the book and discuss the implications of the book's recommendations for how society manage AI risk. The second reading group is our technical paper reading group: each week participants will read a cutting-edge paper in ML or AI safety and discuss to build a more comprehensive understanding of technical AI safety.
 
 
-
 Curricula:
 
 - [CUDA Track](/continuing-tracks/cuda)
 - [IABIED Reading Group](/continuing-tracks/iabied)
 - [Technical Paper Reading Group](/continuing-tracks/paper)
+
+Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdWScN2ahgQfXRIb8w39YM8q-ekgEaaApfyJK3f6gEuqqYcAw/viewform?usp=publish-editor) by EOD Monday, January 19!
