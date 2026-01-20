@@ -17,5 +17,3 @@ Curricula:
 - [CUDA Track](/continuing-tracks/cuda)
 - [IABIED Reading Group](/continuing-tracks/iabied)
 - [Technical Paper Reading Group](/continuing-tracks/paper)
-
-Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdWScN2ahgQfXRIb8w39YM8q-ekgEaaApfyJK3f6gEuqqYcAw/viewform?usp=publish-editor) by EOD Monday, January 19!
