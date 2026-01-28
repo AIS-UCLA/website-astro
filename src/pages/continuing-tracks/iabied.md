@@ -13,7 +13,7 @@ For each chapter, you can find optional additional reading materials at https://
 
 ## Part I: Nonhuman Minds
 
-**Week 1:** Intro (Hard Calls and Easy Calls), Ch 1 (Humanity's Special Power), Ch 2 (Grown, Not Crafter)
+**Week 1:** Intro (Hard Calls and Easy Calls), Ch 1 (Humanity's Special Power), Ch 2 (Grown, Not Crafted)
 
 **Week 2:** Ch 3 (Learning to Want), Ch 4 (You Don't Get What You Train For)
 
