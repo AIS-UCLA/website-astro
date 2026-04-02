@@ -18,13 +18,12 @@ towards in the following quarters.
 
 In the 6-week technical fellowships, participants will complete about 3 hours
 of core content outside of hour-long weekly meetings, split between conceptual
-readings and technical content. In the 6-week governance fellowship, participants 
+readings and technical content. In the 6-week governance fellowship, participants
 will complete 1-2 hours of reading outside of hour-long weekly meetings.
 
 ### Curriculum Options
 
-- [Reinforcement Learning](/fellowships/rl)
-- [Transformers](/fellowships/transformers)
+- [Technical](/fellowships/technical)
 - [Governance](/fellowships/governance)
 
 ## Eligibility
@@ -46,4 +45,4 @@ For our governance fellowship, we do not enforce any particular requirements. Ho
 
 ## Apply
 
-Our Winter quarter fellowships are no longer taking applications.
+Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSemLB9_GuSYkR2vZHlPg1bf5ZIfBLoWrjrzpIJB2FWYuMREHA/viewform) by April 12th for the technical fellowship, and [ADD_LINK_HERE] by DATE for the governance fellowship.

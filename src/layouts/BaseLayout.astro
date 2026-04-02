@@ -105,32 +105,12 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
                 </a>
                 <div class="dropdown-reveal hidden">
                   <a
-                    class={currentPath === "/fellowships/cv" ? "active" : ""}
-                    href="/fellowships/cv"
-                  >
-                    Computer Vision
-                  </a>
-                  <a
-                    class={currentPath === "/fellowships/diffusion"
+                    class={currentPath === "/fellowships/technical"
                       ? "active"
                       : ""}
-                    href="/fellowships/diffusion"
+                    href="/fellowships/technical"
                   >
-                    Diffusion
-                  </a>
-                  <a
-                    class={currentPath === "/fellowships/rl" ? "active" : ""}
-                    href="/fellowships/rl"
-                  >
-                    Reinforcement Learning
-                  </a>
-                  <a
-                    class={currentPath === "/fellowships/transformers"
-                      ? "active"
-                      : ""}
-                    href="/fellowships/transformers"
-                  >
-                    Transformers
+                    Technical
                   </a>
                   <a
                     class={currentPath === "/fellowships/governance"
@@ -150,14 +130,6 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
                   Continuing Tracks
                 </a>
                 <div class="dropdown-reveal hidden">
-                  <a
-                    class={currentPath === "/continuing-tracks/cuda"
-                      ? "active"
-                      : ""}
-                    href="/continuing-tracks/cuda"
-                  >
-                    CUDA Track
-                  </a>
                   <a
                     class={currentPath === "/continuing-tracks/iabied"
                       ? "active"
@@ -220,16 +192,13 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
           </div>
           <div id="narrownav" class="hidden border-t mt-4 border-slate-400">
             <a href="/fellowships">Fellowships:</a>
-            <a href="/fellowships/cv">Computer Vision</a>
-            <a href="/fellowships/diffusion">Diffusion</a>
-            <a href="/fellowships/rl">Reinforcement Learning</a>
-            <a href="/fellowships/transformers">Transformers</a>
+            <a href="/fellowships/technical">Technical</a>
             <a href="/fellowships/governance">Governance</a>
             <hr />
             <a href="/continuing-tracks">Continuing Tracks:</a>
-            <a href="/continuing-tracks/cuda">CUDA</a>
             <a href="/continuing-tracks/iabied">IABIED Reading Group</a>
-            <a href="/continuing-tracks/iabied">Technical Paper Reading Group</a>
+            <a href="/continuing-tracks/iabied">Technical Paper Reading Group</a
+            >
             <hr />
             <a href="/past-work">Past Work</a>
             <hr />
