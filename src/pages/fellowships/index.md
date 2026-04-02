@@ -45,4 +45,4 @@ For our governance fellowship, we do not enforce any particular requirements. Ho
 
 ## Apply
 
-Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSemLB9_GuSYkR2vZHlPg1bf5ZIfBLoWrjrzpIJB2FWYuMREHA/viewform) by April 12th for the technical fellowship, and [ADD_LINK_HERE] by DATE for the governance fellowship.
+Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSemLB9_GuSYkR2vZHlPg1bf5ZIfBLoWrjrzpIJB2FWYuMREHA/viewform) by April 12th for the technical fellowship, and [here](https://docs.google.com/forms/d/e/1FAIpQLSdVcnHXPNZmhFstgmYAlUeHsdMYuhFApHuMsbhO-Ow-t9H4Vg/viewform) by April 10th for the governance fellowship.
