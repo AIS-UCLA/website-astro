@@ -4,14 +4,15 @@ export default function CompanyLogos() {
       <img src="/assets/logos/anthropic.svg" />
       <img src="/assets/logos/mats.svg" />
       <img src="/assets/logos/metr.svg" />
-      <img src="/assets/logos/aifutures.png" />
-      <img src="/assets/logos/aipolicynetwork.png" />
       <img src="/assets/logos/apollo.png" />
+      <img src="/assets/logos/uchicagoxrisklab.png" />
+      <img src="/assets/logos/timaeus.png" />
+      <img src="/assets/logos/aipolicynetwork.png" />
+      <img src="/assets/logos/spar.jpeg" />
+      <img src="/assets/logos/aifutures.png" />
       <img src="/assets/logos/equistamp.png" />
       <img src="/assets/logos/forethought.svg" />
       <img src="/assets/logos/IAPSlogo.webp" />
-      <img src="/assets/logos/spar.jpeg" />
-      <img src="/assets/logos/uchicagoxrisklab.png" />
     </div>
   );
 }
