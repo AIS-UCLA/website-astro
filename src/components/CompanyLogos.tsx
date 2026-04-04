@@ -1,6 +1,6 @@
 export default function CompanyLogos() {
   return (
-    <div className="grid grid-cols-3 gap-12 items-center justify-center">
+    <div className="grid grid-cols-3 gap-12 place-items-center">
       <img src="/assets/logos/anthropic.svg" />
       <img src="/assets/logos/mats.svg" />
       <img src="/assets/logos/metr.svg" />
