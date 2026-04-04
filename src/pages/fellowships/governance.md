@@ -134,10 +134,11 @@ Concrete Scenarios
 Technical AI Governance
 
 1. [Choking Off China’s Access to the Future of AI](https://www.csis.org/analysis/choking-chinas-access-future-ai)
-2. [Primer on AI Chips and AI Governance](https://aisafetyfundamentals.com/blog/primer-on-ai-chips) 
+2. [Primer on AI Chips and AI Governance](https://aisafetyfundamentals.com/blog/primer-on-ai-chips)
 3. [An International Agreement to Prevent the Premature Creation of Artificial Superintelligence](https://arxiv.org/pdf/2511.10783)
 
 Careers in AI Governance
+
 1. [Advice for Undergraduates](https://emergingtechpolicy.org/pathways/undergraduate-advice/)
 2. [Aptitudes for AI Governance Work](https://forum.effectivealtruism.org/posts/ozSBaNLysue9MmFqs/aptitudes-for-ai-governance-work)
 3. [AI Safety Career Opportunities Job Board](https://jobs.80000hours.org/?refinementList%5Btags_area%5D%5B0%5D=AI%20safety%20%26%20policy)
