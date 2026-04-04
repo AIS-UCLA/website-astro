@@ -7,7 +7,7 @@ title: Technical Paper Reading Group
 
 There is an intro technical fellowship for those who want to learn more about AI & AI Safety, including how these systems work, are trained, and are potentially extremely dangerous. It includes weekly readings and meetings. Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSemLB9_GuSYkR2vZHlPg1bf5ZIfBLoWrjrzpIJB2FWYuMREHA/viewform) by April 12th.
 
-## Example Table of Contents
+## Table of Contents
 
 1. [Week 1: Preventing an AI-related catastrophe](#week-1-preventing-an-ai-related-catastrophe)
 2. [Week 2: The future is going to be wild](#week-2-the-future-is-going-to-be-wild)
