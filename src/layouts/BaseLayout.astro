@@ -124,25 +124,25 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
               </div>
               <div class="dropdown">
                 <a
-                  class={currentPath === "/continuing-tracks" ? "active" : ""}
-                  href="/continuing-tracks"
+                  class={currentPath === "/reading-groups" ? "active" : ""}
+                  href="/reading-groups"
                 >
-                  Continuing Tracks
+                  Reading Groups
                 </a>
                 <div class="dropdown-reveal hidden">
                   <a
-                    class={currentPath === "/continuing-tracks/iabied"
+                    class={currentPath === "/reading-groups/iabied"
                       ? "active"
                       : ""}
-                    href="/continuing-tracks/iabied"
+                    href="/reading-groups/iabied"
                   >
                     IABIED Reading Group
                   </a>
                   <a
-                    class={currentPath === "/continuing-tracks/paper"
+                    class={currentPath === "/reading-groups/paper"
                       ? "active"
                       : ""}
-                    href="/continuing-tracks/paper"
+                    href="/reading-groups/paper"
                   >
                     Technical Paper Reading Group
                   </a>
@@ -195,10 +195,9 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
             <a href="/fellowships/technical">Technical</a>
             <a href="/fellowships/governance">Governance</a>
             <hr />
-            <a href="/continuing-tracks">Continuing Tracks:</a>
-            <a href="/continuing-tracks/iabied">IABIED Reading Group</a>
-            <a href="/continuing-tracks/iabied">Technical Paper Reading Group</a
-            >
+            <a href="/reading-groups">Reading Groups:</a>
+            <a href="/reading-groups/iabied">IABIED Reading Group</a>
+            <a href="/reading-groups/iabied">Technical Paper Reading Group</a>
             <hr />
             <a href="/past-work">Past Work</a>
             <hr />
