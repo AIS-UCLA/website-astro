@@ -3,7 +3,7 @@ layout: ../../layouts/SimpleLayout.astro
 title: Transformers Fellowship
 ---
 
-# AI Safety at UCLA Intro Fellowship: Transformers Track
+# AI Safety @ UCLA Intro Fellowship: Transformers Track
 
 ## Table of Contents
 

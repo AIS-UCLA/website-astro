@@ -3,7 +3,7 @@ import BaseLayout from "./BaseLayout.astro";
 
 const { frontmatter } = Astro.props;
 const title =
-  "AI Safety at UCLA" + (frontmatter.title ? ` | ${frontmatter.title}` : "");
+  "AI Safety @ UCLA" + (frontmatter.title ? ` | ${frontmatter.title}` : "");
 ---
 
 <BaseLayout title={title}>

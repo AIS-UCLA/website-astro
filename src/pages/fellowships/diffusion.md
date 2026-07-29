@@ -3,7 +3,7 @@ layout: ../../layouts/SimpleLayout.astro
 title: Diffusion Fellowship
 ---
 
-# AI Safety at UCLA Intro Fellowship: Diffusion Track
+# AI Safety @ UCLA Intro Fellowship: Diffusion Track
 
 ## Table of Contents
 

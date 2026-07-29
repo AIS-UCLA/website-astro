@@ -3,7 +3,7 @@ layout: ../../layouts/SimpleLayout.astro
 title: Computer Vision Fellowship
 ---
 
-# AI Safety at UCLA Intro Fellowship: Computer Vision Track
+# AI Safety @ UCLA Intro Fellowship: Computer Vision Track
 
 ## Table of Contents
 

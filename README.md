@@ -1,6 +1,6 @@
 # AIS-UCLA.ORG
 
-Welcome to the AI Safety at UCLA website repo.
+Welcome to the AI Safety @ UCLA website repo.
 
 ## Contributing
 

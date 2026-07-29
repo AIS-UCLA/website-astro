@@ -3,7 +3,7 @@ layout: ../../layouts/SimpleLayout.astro
 title: AI Governance Fellowship
 ---
 
-# AI Safety at UCLA Intro Fellowship: Governance Track
+# AI Safety @ UCLA Intro Fellowship: Governance Track
 
 ## Table of Contents
 

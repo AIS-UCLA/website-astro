@@ -3,7 +3,7 @@ layout: ../../layouts/SimpleLayout.astro
 title: Technical Paper Reading Group
 ---
 
-# AI Safety at UCLA Technical Fellowships
+# AI Safety @ UCLA Technical Fellowships
 
 There is an intro technical fellowship for those who want to learn more about AI & AI Safety, including how these systems work, are trained, and are potentially extremely dangerous. It includes weekly readings and meetings. Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSemLB9_GuSYkR2vZHlPg1bf5ZIfBLoWrjrzpIJB2FWYuMREHA/viewform) by April 12th.
 
