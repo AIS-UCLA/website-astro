@@ -13,6 +13,7 @@ const logos = [
     name: "Epoch AI",
     src: "/assets/logos/epoch.svg",
     href: "https://epoch.ai",
+    width: 210,
   },
   {
     name: "Coefficient Giving: Global Catastrophic Risks",
@@ -21,7 +22,7 @@ const logos = [
   },
   {
     name: "Timaeus",
-    src: "/assets/logos/timaeus.png",
+    src: "/assets/logos/timaeus.png?v=2",
     href: "https://timaeus.co",
   },
   { name: "METR", src: "/assets/logos/metr.svg", href: "https://metr.org" },
@@ -37,12 +38,12 @@ const logos = [
   },
   {
     name: "The AI Policy Network",
-    src: "/assets/logos/aipolicynetwork.png",
+    src: "/assets/logos/aipolicynetwork.png?v=2",
     href: "https://theaipn.org",
   },
   {
     name: "AI Futures Project",
-    src: "/assets/logos/aifutures.png",
+    src: "/assets/logos/aifutures.png?v=2",
     href: "https://www.aifutures.org",
   },
   {
@@ -60,7 +61,7 @@ const logos = [
 export default function CompanyLogos() {
   return (
     <div className="grid grid-cols-3 gap-12 place-items-center">
-      {logos.map(({ name, src, href }) => (
+      {logos.map(({ name, src, href, width }) => (
         <a
           key={name}
           href={href}
@@ -68,7 +69,7 @@ export default function CompanyLogos() {
           rel="noopener noreferrer"
           className="w-full"
         >
-          <img src={src} alt={name} className="mx-auto" />
+          <img src={src} alt={name} width={width} className="mx-auto" />
         </a>
       ))}
     </div>
