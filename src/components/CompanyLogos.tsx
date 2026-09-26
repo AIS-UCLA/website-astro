@@ -16,9 +16,9 @@ const logos = [
     width: 210,
   },
   {
-    name: "Coefficient Giving: Global Catastrophic Risks",
+    name: "Coefficient Giving: Navigating Transformative AI",
     src: "/assets/logos/coefficientgiving.png",
-    href: "https://coefficientgiving.org/funds/global-catastrophic-risks-opportunities/",
+    href: "https://coefficientgiving.org/funds/navigating-transformative-ai/",
   },
   {
     name: "Timaeus",
