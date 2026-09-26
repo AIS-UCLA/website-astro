@@ -8,8 +8,8 @@ title: Reinforcement Learning Fellowship
 ## Table of Contents
 
 1. [Week 1: Preventing an AI-related catastrophe](#week-1-preventing-an-ai-related-catastrophe)
-2. [Week 2: The future is going to be wild](#week-2-the-future-is-going-to-be-wild--policy-gradient)
-3. [Week 3: Why AI Safety?](#week-3-pytorch-intro--unsolved-problems-in-ml-safety)
+2. [Week 2: The future is going to be wild + Policy Gradient](#week-2-the-future-is-going-to-be-wild--policy-gradient)
+3. [Week 3: PyTorch Intro + Unsolved Problems in ML Safety](#week-3-pytorch-intro--unsolved-problems-in-ml-safety)
 4. [Week 4: AI Safety Field Background](#week-4-ai-safety-field-background)
 5. [Week 5: Failure Modes in AI](#week-5-failure-modes-in-ai)
 6. [Week 6: Open Problems in AI X-Risk](#week-6-open-problems-in-ai-x-risk)
@@ -52,14 +52,14 @@ Learning Goals:
 3. See how AI could impact a wide range of industries.
 4. Reflect on the radical impact AI can have on the future of humanity
 5. Reflect on the strange possibilities of our economic future.
-6. Reflect on the speed with which AI will transition from powerful to superintelligence.
+6. Reflect on the speed with which AI will transition from powerful to superintelligent.
 
 ### Practical
 
 1. Understand Markov Decision Processes (MDPs)
 2. Understand the intuition behind the policy gradient.
 
-## Week 3: Pytorch Intro + Unsolved Problems in ML Safety
+## Week 3: PyTorch Intro + Unsolved Problems in ML Safety
 
 Core Readings:
 
@@ -103,8 +103,8 @@ Core Readings: (55 min)
 ### Theoretical
 
 1. [X-Risk Analysis for AI Research (Appendix A pg 13-14)](https://arxiv.org/pdf/2206.05862) (10 min)
-2. [What Failure Looks Like](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like) (10 min)\*\*
-3. [Clarifying What Failure Looks Like](https://www.alignmentforum.org/posts/v6Q7T335KCMxujhZu/clarifying-what-failure-looks-like) (25 mins)\*\*
+2. [What Failure Looks Like](https://www.alignmentforum.org/posts/HBxe6wdjxK239zajf/what-failure-looks-like) (10 min)
+3. [Clarifying What Failure Looks Like](https://www.alignmentforum.org/posts/v6Q7T335KCMxujhZu/clarifying-what-failure-looks-like) (25 mins)
 
 ### Practical
 
@@ -134,7 +134,7 @@ Core Readings:
 1. Pick a research agenda you find particularly interesting (perhaps to pursue later).
 2. Understand the role AI governance plays in the broader field of AI safety.
 
-Before next meeting, think (or write down) your answers to these questions:
+Before next meeting, think about (or write down) your answers to these questions:
 
 1. If you were to pursue a research question/topic in AI safety, what would it be?
 2. What area of AI safety do you find most interesting? What area of AI safety do you find most promising?

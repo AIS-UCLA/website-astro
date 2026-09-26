@@ -9,9 +9,9 @@ title: Diffusion Fellowship
 
 1. [Week 1: Preventing an AI-related catastrophe + Scaling Hypothesis](#week-1-preventing-an-ai-related-catastrophe--scaling-hypothesis)
 2. [Week 2: The future is going to be wild + Image Generation Mathematical Framework](#week-2-the-future-is-going-to-be-wild--image-generation-mathematical-framework)
-3. [Week 3: Introducing autoencoders, KL divergence, and unsolved Problems in AI Safety.](#week-3-introducing-autoencoders-kl-divergence-and-unsolved-problems-in-ai-safety)
+3. [Week 3: Introducing autoencoders, KL divergence, and Unsolved Problems in AI Safety](#week-3-introducing-autoencoders-kl-divergence-and-unsolved-problems-in-ai-safety)
 4. [Week 4: AI Safety Field Background + Deep dive into VAEs](#week-4-ai-safety-field-background--deep-dive-into-vaes)
-5. [Week 5: AI Alignment Failure Modes + Mathematics behind VAEs.](#week-5-ai-alignment-failure-modes--mathematics-behind-vaes)
+5. [Week 5: AI Alignment Failure Modes + Mathematics behind VAEs](#week-5-ai-alignment-failure-modes--mathematics-behind-vaes)
 6. [Week 6: Open Problems in AI X-Risk + Diffusion Models](#week-6-open-problems-in-ai-x-risk--diffusion-models)
 
 ## Week 1: Preventing an AI-related Catastrophe + Scaling Hypothesis
@@ -45,7 +45,7 @@ Theoretical Readings (75 min):
 
 Practical Readings (60 min):
 
-1. (if unfamiliar) [3 Blue 1 Brown Neural Networks](https://www.3blue1brown.com/topics/neural-networks), Chapters 1 and 2 (30 min)
+1. (if unfamiliar) [3Blue1Brown Neural Networks](https://www.3blue1brown.com/topics/neural-networks), Chapters 1 and 2 (30 min)
 2. [DDPMs, Part 1 - Autoencoders](https://gist.github.com/wz-ml/07ad588d3dbf8f30f13b1e55c7e442ab) (30 mins).
 
 Learning Goals:
@@ -57,14 +57,14 @@ Theoretical
 3. See how AI could impact a wide range of industries.
 4. Reflect on the radical impact AI can have on the future of humanity
 5. Reflect on the strange possibilities of our economic future.
-6. Reflect on the speed with which AI will transition from powerful to superintelligence.
+6. Reflect on the speed with which AI will transition from powerful to superintelligent.
 
 Practical
 
 1. Understand neural networks and deep learning.
-2. Understanding the intuition behind compression within autoencoders.
+2. Understand the intuition behind compression within autoencoders.
 
-## Week 3: Introducing autoencoders, KL divergence, and unsolved Problems in AI Safety.
+## Week 3: Introducing autoencoders, KL divergence, and Unsolved Problems in AI Safety
 
 <img src="https://github.com/user-attachments/assets/68bf23a3-1751-4268-8a7b-1bc9d96ece5a" width="300">
 
@@ -87,7 +87,7 @@ Theoretical
 
 Practical
 
-1. Establish an intuition of Kullback-Liebler (KL) divergence and what it means as a distance metric between random variables.
+1. Establish an intuition of Kullback-Leibler (KL) divergence and what it means as a distance metric between random variables.
 
 ## Week 4: AI Safety Field Background + Deep dive into VAEs
 

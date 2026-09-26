@@ -7,12 +7,12 @@ title: Transformers Fellowship
 
 ## Table of Contents
 
-1. [Week 1: Preventing an AI-related catastrophe](#week-1-preventing-an-ai-related-catastrophe)
-2. [Week 2: The future is going to be wild](#week-2-the-future-is-going-to-be-wild)
-3. [Week 3: AI Safety Field Background](#week-3-ai-safety-field-background)
-4. [Week 4: Unsolved Problems in ML Safety](#week-4-unsolved-problems-in-ml-safety)
-5. [Week 5: Failure Modes in AI](#week-5-failure-modes-in-ai)
-6. [Week 6: Open Problems in AI X-Risk](#week-6-open-problems-in-ai-x-risk)
+1. [Week 1: Preventing an AI-related catastrophe + Review NN Architecture](#week-1-preventing-an-ai-related-catastrophe--review-nn-architecture)
+2. [Week 2: The future is going to be wild + The Bigram Model](#week-2-the-future-is-going-to-be-wild--the-bigram-model)
+3. [Week 3: Unsolved Problems in ML Safety + Positional Encoding](#week-3-unsolved-problems-in-ml-safety--positional-encoding)
+4. [Week 4: The AI Safety Landscape + Self-Attention](#week-4-the-ai-safety-landscape--self-attention)
+5. [Week 5: Failure Modes in AI + Multi-Headed Attention](#week-5-failure-modes-in-ai--multi-headed-attention)
+6. [Week 6: Open Problems in AI X-Risk + Transformers & GPT-2 from scratch](#week-6-open-problems-in-ai-x-risk--transformers--gpt-2-from-scratch)
 
 ## Week 1: Preventing an AI-related catastrophe + Review NN Architecture
 
@@ -32,7 +32,7 @@ Learning Goals:
 2. Understand the neural network architecture and how models learn
 3. Apply the PyTorch API to implement backpropagation
 
-## Week 2:The future is going to be wild + The Bigram Model
+## Week 2: The future is going to be wild + The Bigram Model
 
 The progress of AI has been quite fast, AI today is quite capable, and AI has been very useful in solving problems that other methods cannot solve.
 
@@ -53,13 +53,13 @@ Practical (< 150 mins)
 
 Additional Optional Content (< 50 mins)
 
-4. [CS M146 - Generative AI by Prof. Aditya Grover](https://drive.google.com/file/d/17H96-lVGtg1HFsZ2pATY378cOXMsRPCr/view) (50 min)
+1. [CS M146 - Generative AI by Prof. Aditya Grover](https://drive.google.com/file/d/17H96-lVGtg1HFsZ2pATY378cOXMsRPCr/view) (50 min)
 
 Learning Goals:
 
 1. Recognize the relationship between compute and capabilities.
 2. Recognize the radical impact AI can have on the future of humanity
-3. Understand the speed with which AI will transition from powerful to superintelligence.
+3. Understand the speed with which AI will transition from powerful to superintelligent.
 4. Understand probability distributions in generative language models
 5. Recognize trainable parameters/tasks in language generation at a small scale
 
@@ -88,7 +88,7 @@ Learning Goals:
 
 ## Week 4: The AI Safety Landscape + Self-Attention
 
-Core readings: (< 200 min):
+Core readings (< 200 min):
 
 Conceptual readings (80 min):
 
@@ -153,4 +153,4 @@ Learning Goals:
 2. Understand the issues with lobbying for AI governance and policy to “maintain” capabilities research alongside safety research
 3. Apply embeddings, positional encoding, and multi-headed attention in a transformer model
 4. Understand how large language models work internally through each step of the process
-5. Recognize the challenges of creating and training large scale language models
+5. Recognize the challenges of creating and training large-scale language models
