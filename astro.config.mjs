@@ -23,6 +23,12 @@ export default defineConfig({
     "/forms/intro": "/",
   },
   vite: {
+    build: {
+      // Vite 8 minifies CSS for newer browsers by default and rewrites
+      // `min-width` breakpoints into range syntax that Safari < 16.4 ignores;
+      // keep the older browser targets Vite 5 used.
+      cssTarget: ["chrome87", "edge88", "firefox78", "safari14"],
+    },
     css: {
       postcss: {
         plugins: [tailwindcssNesting(), tailwindcss(), autoprefixer()],
