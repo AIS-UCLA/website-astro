@@ -5,15 +5,13 @@ title: CUDA Track
 
 # AI Safety Upskilling: CUDA Track
 
-Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdWScN2ahgQfXRIb8w39YM8q-ekgEaaApfyJK3f6gEuqqYcAw/viewform?usp=publish-editor) by EOD Monday, January 19!
-
 ## Table of Contents
 
 1. [Week 1: Intro to GPUs and writing your first kernel!](#week-1-intro-to-gpus-and-writing-your-first-kernel)
-2. [Week 2 and 3: Learning to optimize your kernels!](#week-2-and-3-learning-to-optimize-your-kernels)
-3. [Week 4 and 5: Learning to optimize with Tensor Cores!](#week-4-and-5-learning-to-optimize-with-tensor-cores)
-4. [Week 6: Exploring other optimization parallel techniques!](#week-6-exploring-other-optimization-parallel-techniques)
-5. [Week 7 & 8: Putting it all together in Flash Attention](#week-7--8-putting-it-all-together-in-flash-attention)
+2. [Weeks 2 and 3: Learning to optimize your kernels!](#weeks-2-and-3-learning-to-optimize-your-kernels)
+3. [Weeks 4 and 5: Learning to optimize with Tensor Cores!](#weeks-4-and-5-learning-to-optimize-with-tensor-cores)
+4. [Week 6: Exploring other parallel optimization techniques!](#week-6-exploring-other-parallel-optimization-techniques)
+5. [Weeks 7 and 8: Putting it all together in Flash Attention](#weeks-7-and-8-putting-it-all-together-in-flash-attention)
 
 ## Assignments
 
@@ -21,7 +19,7 @@ Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdWScN2ahgQfXRIb8w39YM8q
 2. [Assignment 2 Part 1: Implementing SGEMM Kernels](https://github.com/AIS-UCLA/cuda-track/tree/main/assign2_pt1)
 3. [Assignment 2 Part 2: Implementing HGEMM Kernels](https://github.com/AIS-UCLA/cuda-track/tree/main/assign2_pt2)
 4. [Assignment 3: CUDA Softmax: You're too slow!](https://github.com/AIS-UCLA/cuda-track/tree/main/assign3)
-5. [Assignment 4: Running GPT2 inference w/ Flash Attention](https://github.com/AIS-UCLA/cuda-track/tree/main/assign4)
+5. [Assignment 4: Running GPT-2 inference w/ Flash Attention](https://github.com/AIS-UCLA/cuda-track/tree/main/assign4)
 
 ## Week 1: Intro to GPUs and writing your first kernel!
 
@@ -39,11 +37,11 @@ Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdWScN2ahgQfXRIb8w39YM8q
 [PMPP Book Access](https://dokumen.pub/qdownload/programming-massively-parallel-processors-a-hands-on-approach-4nbsped-9780323912310.html)\
 [NVIDIA GPU Glossary](https://modal.com/gpu-glossary/device-hardware)
 
-## Week 2 and 3: Learning to optimize your kernels!
+## Weeks 2 and 3: Learning to optimize your kernels!
 
 ![gemm1](https://github.com/user-attachments/assets/d0349f57-d436-459e-920f-5b445a3771fa)
 
-#### From the image, how many FLOPS (floating point operations) are in matrix multiplication?
+#### From the image, how many FLOPs (floating-point operations) are in matrix multiplication?
 
 ### Recommended Readings:
 
@@ -55,7 +53,7 @@ Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdWScN2ahgQfXRIb8w39YM8q
 
 [NCU Documentation](https://docs.nvidia.com/nsight-compute/NsightCompute/index.html)
 
-## Week 4 and 5: Learning to optimize with Tensor Cores!
+## Weeks 4 and 5: Learning to optimize with Tensor Cores!
 
 ![Tensor-Core-Matrix](https://github.com/user-attachments/assets/d6209037-dd9b-4285-b71e-d3df5184ea2a)
 
@@ -74,21 +72,21 @@ Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLSdWScN2ahgQfXRIb8w39YM8q
 [CUTLASS GEMM Documentation](https://github.com/NVIDIA/cutlass/blob/main/media/docs/cpp/implicit_gemm_convolution.md#shared-memory-layouts)\
 [NVIDIA PTX ISA Documentation (Chapter 9.7 is most relevant)](https://docs.nvidia.com/cuda/parallel-thread-execution/index.html?highlight=mma#)
 
-## Week 6: Exploring other optimization parallel techniques!
+## Week 6: Exploring other parallel optimization techniques!
 
 ![reduction](https://github.com/user-attachments/assets/fadec7b2-eedb-44c2-9918-07f81a0b1604)
 
-#### How could we compute the sum of all the elements in a 1-million sized vector?
+#### How could we compute the sum of all the elements in a million-element vector?
 
 ### Recommended Readings:
 
 [Primer on Parallel Reduction](https://developer.download.nvidia.com/assets/cuda/files/reduction.pdf)\
-[Warp level Primitives](https://developer.nvidia.com/blog/using-cuda-warp-level-primitives/)\
+[Warp-Level Primitives](https://developer.nvidia.com/blog/using-cuda-warp-level-primitives/)\
 [Vectorization](https://developer.nvidia.com/blog/cuda-pro-tip-increase-performance-with-vectorized-memory-access/)\
 [Efficient Softmax Kernel](https://oneflow2020.medium.com/how-to-implement-an-efficient-softmax-cuda-kernel-oneflow-performance-optimization-sharing-405ad56e9031)\
 [Online Softmax Paper](https://arxiv.org/pdf/1805.02867)
 
-## Week 7 & 8: Putting it all together in Flash Attention
+## Weeks 7 and 8: Putting it all together in Flash Attention
 
 ![flash-att](https://github.com/user-attachments/assets/9a1df84b-f36d-41a9-bf01-b8cd27a32fa5)
 

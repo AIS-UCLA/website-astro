@@ -5,7 +5,7 @@ title: IABIED Reading Group
 
 # _If Anyone Builds It, Everyone Dies_ Reading Group
 
-_If Anyone Builds It, Everyone Dies_ was published by Eliezer Yudkowsky and Nate Soares of the Machine Intelligence Research Institute (MIRI) in 2025. The book outlines their argument for why AI alignment is a difficult problem that humanity is not on track to solve, and why this will result in human extinction by default. The "MIRI worldview" is one among many in the AI Safety community, and is worth understanding and debating due to the stakes at hand.
+_If Anyone Builds It, Everyone Dies_ was written by Eliezer Yudkowsky and Nate Soares of the Machine Intelligence Research Institute (MIRI) and published in 2025. The book outlines their argument for why AI alignment is a difficult problem that humanity is not on track to solve, and why this will result in human extinction by default. The "MIRI worldview" is one among many in the AI Safety community, and is worth understanding and debating due to the stakes at hand.
 
 Physical copies of the book will be provided; each week, participants will read 2-3 chapters at home and then come together for a one-hour discussion of the reading. Meeting time will be determined by availability. Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScj0iDnK9suL4IJEe54M52Jo1PSfu4UmBtvEz6yh3amJ1TybQ/viewform) by EOD April 12th.
 
@@ -21,7 +21,7 @@ For each chapter, you can find optional additional reading materials at https://
 
 ## Part II: One Extinction Scenario
 
-**Week 4**: Ch 7 (Realization), Ch 8 (Expansion), Ch 9 (Ascension)
+**Week 4:** Ch 7 (Realization), Ch 8 (Expansion), Ch 9 (Ascension)
 
 ## Part III: Facing the Challenge
 

@@ -9,7 +9,7 @@ title: AI Governance Fellowship
 
 ### Part 1: Introduction to AI Safety
 
-1. [Week 1: Artificial Intelligence -- How it Works and What it Can Achieve](#week-1-artificial-intelligence----how-it-works-and-what-it-can-achieve)
+1. [Week 1: Artificial Intelligence -- How it Works and What it Can Achieve](#week-1-artificial-intelligence--how-it-works-and-what-it-can-achieve)
 2. [Week 2: Loss of Control](#week-2-loss-of-control)
 3. [Week 3: Concentration of Power & Gradual Disempowerment](#week-3-concentration-of-power-and-gradual-disempowerment)
 
@@ -40,7 +40,7 @@ How AI Works
 
 1. [AI, Machine Learning, and Deep Learning](https://blogs.nvidia.com/blog/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/)
 2. [Gradient Descent: How Neural Networks Learn | Chapter 2, Deep Learning](https://youtu.be/IHZwWFHWa-w)
-3. [What is Self Supervised Learning?](https://youtu.be/sJzuNAisXHA)
+3. [What is Self-Supervised Learning?](https://youtu.be/sJzuNAisXHA)
 
 AI Futures
 
@@ -78,7 +78,7 @@ Concrete Scenarios
 
 #### Core Content (120 min):
 
-1. [AI Enabled Coups: How a Small Group Could Use AI to Seize Power](https://www.forethought.org/research/ai-enabled-coups-how-a-small-group-could-use-ai-to-seize-power) (60 min)
+1. [AI-Enabled Coups: How a Small Group Could Use AI to Seize Power](https://www.forethought.org/research/ai-enabled-coups-how-a-small-group-could-use-ai-to-seize-power) (60 min)
 2. [Gradual Disempowerment: Systemic Existential Risks from Incremental AI Development](https://arxiv.org/pdf/2501.16946) (60 min)
 
 #### Optional Additional Content:

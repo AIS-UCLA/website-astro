@@ -51,7 +51,7 @@ Learning Goals:
 3. See how AI could impact a wide range of industries.
 4. Reflect on the radical impact AI can have on the future of humanity
 5. Reflect on the strange possibilities of our economic future.
-6. Reflect on the speed with which AI will transition from powerful to superintelligence.
+6. Reflect on the speed with which AI will transition from powerful to superintelligent.
 7. Start to understand how neural networks work.
 
 ## Week 3: AI Safety Field Background
@@ -87,14 +87,14 @@ Conceptual readings (80 min):
 
 Technical Content (20 min):
 
-1. Read through the README in the [technical materials](https://github.com/ais-ucla/cv-fellowship), and follow the setup instructions, and start looking at the README in the micrograd folder too. Message your facilitator and/or bring your laptop to the meeting if you have issues!
+1. Read through the README in the [technical materials](https://github.com/ais-ucla/cv-fellowship), follow the setup instructions, and start looking at the README in the micrograd folder too. Message your facilitator and/or bring your laptop to the meeting if you have issues!
 
 Learning Goals:
 
 1. Be able to determine how an AI safety project may reduce X-risk.
 2. Evaluate the failure modes of misaligned AI.
 3. Understand the factors that lead to value lock-in.
-4. Get coding environment setup for ML projects.
+4. Get your coding environment set up for ML projects.
 
 ## Week 5: Failure Modes in AI
 
@@ -126,7 +126,7 @@ Conceptual readings (60 min):
 
 Technical content (max 45 min):
 
-1. Complete steps One and Two of the [pytorch project](https://github.com/AIS-UCLA/cv-fellowship/tree/master/pytorch). Don’t spend more than 45 minutes on this, and ask for help if you feel stuck!
+1. Complete Steps One and Two of the [pytorch project](https://github.com/AIS-UCLA/cv-fellowship/tree/master/pytorch). Don’t spend more than 45 minutes on this, and ask for help if you feel stuck!
 2. **Optionally:** Watch [But what is a convolution?](https://youtu.be/KuXjwB4LzSA) and complete Step Three of the pytorch project.
 
 Learning Goals:
