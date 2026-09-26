@@ -149,12 +149,28 @@ const year = new Date().getFullYear();
                   </a>
                 </div>
               </div>
-              <a
-                class={currentPath === "/past-work" ? "active" : ""}
-                href="/past-work"
-              >
-                Past Work
-              </a>
+              <div class="dropdown">
+                <a
+                  class={currentPath === "/past-work" ? "active" : ""}
+                  href="/past-work"
+                >
+                  Past Work
+                </a>
+                <div class="dropdown-reveal hidden">
+                  <a
+                    class={currentPath === "/past-courses" ? "active" : ""}
+                    href="/past-courses"
+                  >
+                    Past Courses
+                  </a>
+                  <a
+                    class={currentPath === "/past-work" ? "active" : ""}
+                    href="/past-work"
+                  >
+                    Past Projects
+                  </a>
+                </div>
+              </div>
               <div class="dropdown">
                 <a
                   class={currentPath === "/who-we-are" ? "active" : ""}
@@ -199,7 +215,9 @@ const year = new Date().getFullYear();
             <a href="/reading-groups/iabied">IABIED Reading Group</a>
             <a href="/reading-groups/paper">Technical Paper Reading Group</a>
             <hr />
-            <a href="/past-work">Past Work</a>
+            <a href="/past-work">Past Work:</a>
+            <a href="/past-courses">Past Courses</a>
+            <a href="/past-work">Past Projects</a>
             <hr />
             <a href="/who-we-are">Who We Are</a>
             <a href="//blog.aisafetyatucla.org/">Blog</a>
