@@ -12,7 +12,7 @@ const quoteList: string[] = [
   "If you can't be AI safe, be AI sorry.",
   "Play it safe, make it AI safe.",
   "The safest AI is a well-regulated AI.",
-  "Better AI safe than AI sorry!",
+  "Better AI safe then AI sorry!",
   "A safe AI is a happy AI.",
   "A well-regulated AI is a well-behaved AI.",
   "An AI in safety is an AI in control.",
@@ -40,7 +40,7 @@ export default function GPT3() {
           cursorClassName: "text-2xl",
         }}
       />
-      <footer className="font-bold">— GPT-3</footer>
+      <footer className="font-bold">— GPT3</footer>
     </blockquote>
   );
 }
