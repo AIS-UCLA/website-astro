@@ -1,0 +1,4 @@
+/* Tailwind layers for every page (formerly injected by @astrojs/tailwind). */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
