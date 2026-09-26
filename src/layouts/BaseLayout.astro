@@ -3,6 +3,7 @@ import "../styles/global.css";
 
 const title = Astro.props.title || "AI Safety @ UCLA";
 const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
+const year = new Date().getFullYear();
 ---
 
 <!doctype html>
@@ -150,12 +151,28 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
                   </a>
                 </div>
               </div>
-              <a
-                class={currentPath === "/past-work" ? "active" : ""}
-                href="/past-work"
-              >
-                Past Work
-              </a>
+              <div class="dropdown">
+                <a
+                  class={currentPath === "/past-work" ? "active" : ""}
+                  href="/past-work"
+                >
+                  Past Work
+                </a>
+                <div class="dropdown-reveal hidden">
+                  <a
+                    class={currentPath === "/past-courses" ? "active" : ""}
+                    href="/past-courses"
+                  >
+                    Past Courses
+                  </a>
+                  <a
+                    class={currentPath === "/past-work" ? "active" : ""}
+                    href="/past-work"
+                  >
+                    Past Projects
+                  </a>
+                </div>
+              </div>
               <div class="dropdown">
                 <a
                   class={currentPath === "/who-we-are" ? "active" : ""}
@@ -198,9 +215,11 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
             <hr />
             <a href="/reading-groups">Reading Groups:</a>
             <a href="/reading-groups/iabied">IABIED Reading Group</a>
-            <a href="/reading-groups/iabied">Technical Paper Reading Group</a>
+            <a href="/reading-groups/paper">Technical Paper Reading Group</a>
             <hr />
-            <a href="/past-work">Past Work</a>
+            <a href="/past-work">Past Work:</a>
+            <a href="/past-courses">Past Courses</a>
+            <a href="/past-work">Past Projects</a>
             <hr />
             <a href="/who-we-are">Who We Are</a>
             <a href="//blog.aisafetyatucla.org/">Blog</a>
@@ -214,7 +233,7 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
     </main>
     <footer class="py-10 bg-slate-900 text-slate-100">
       <div class="mx-auto max-w-7xl flex justify-between px-6">
-        <p>&copy; 2025 AI Safety @ UCLA</p>
+        <p>&copy; {year} AI Safety @ UCLA</p>
         <div class="flex gap-x-6">
           <a href="//blog.aisafetyatucla.org">Blog</a>
           <a href="//github.com/ais-ucla">Github</a>
