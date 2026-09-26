@@ -1,6 +1,7 @@
 ---
 const title = Astro.props.title || "AI Safety @ UCLA";
 const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
+const year = new Date().getFullYear();
 ---
 
 <!doctype html>
@@ -212,7 +213,7 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
     </main>
     <footer class="py-10 bg-slate-900 text-slate-100">
       <div class="mx-auto max-w-7xl flex justify-between px-6">
-        <p>&copy; 2025 AI Safety @ UCLA</p>
+        <p>&copy; {year} AI Safety @ UCLA</p>
         <div class="flex gap-x-6">
           <a href="//blog.aisafetyatucla.org">Blog</a>
           <a href="//github.com/ais-ucla">Github</a>
