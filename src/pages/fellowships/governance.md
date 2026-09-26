@@ -61,7 +61,7 @@ First Principles AI Safety
 
 1. [Existential Risk from Power-Seeking AI](https://jc.gatspress.com/pdf/existential_risk_and_powerseeking_ai.pdf)
 2. [Why Would AI Want to do Bad Things? Instrumental Convergence](https://aisafetyfundamentals.com/blog/why-might-misaligned-advanced-ai-cause-catastrophe-compilation/)
-3. [Why AI Alignment Could Be Hard with Modern Deep Learning by Ajeya Cotra](https://docs.google.com/document/d/12Ly6VZ9917n84ffX5Ds-_J-ojkE5nUp-nyrnILTT48o/edit)
+3. [Why AI Alignment Could Be Hard with Modern Deep Learning by Ajeya Cotra](https://www.cold-takes.com/why-ai-alignment-could-be-hard-with-modern-deep-learning/)
 
 Surveys of AI Risks
 
