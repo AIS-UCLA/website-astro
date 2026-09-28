@@ -1,48 +1,27 @@
 ---
 layout: ../../layouts/SimpleLayout.astro
-title: AI Safety Introductory Fellowship
+title: Technical Fellowship
 ---
 
-# Intro Fellowships
+# Technical Fellowship
 
-The Intro to AI Safety Fellowship is a 6-8 week, quarter-long course which
-explores the impact of increasingly powerful AI systems on society, explains
-the problems which the AI safety field is currently working on, and goes over
-active areas of research.
+The Technical Fellowship is a 6 week fellowship which helps upskill fellows into research careers.
+It covers the problems which the AI safety field is currently working on, and goes over active areas of research.
 
-The program consists of a series of video and reading lessons which are
+The program starts with <a href="https://docs.google.com/document/d/12EJeePu_GsMK7J-WXLzjwn_0nYmXJQb-QuwMfTMoVB8/view" target="_blank" rel="noopener noreferrer">a section of the ARENA curriculum</a> which is
 accompanied by weekly, collective meetings that expand on the topics covered
-in the lessons. You can expect to learn from many prevailing sources in the
-field which will help you develop a solid research agenda that you may work
-towards in the following quarters.
+in the lessons. You can expect to read papers and gain context on the state of AI safety.
 
-In the 6-week technical fellowships, participants will complete about 3 hours
-of core content outside of hour-long weekly meetings, split between conceptual
-readings and technical content. In the 6-week governance fellowship, participants
-will complete 1-2 hours of reading outside of hour-long weekly meetings.
-
-### Curriculum Options
-
-- [Technical](/fellowships/technical)
-- [Governance](/fellowships/governance)
+In the latter section of the fellowship, we're planning on having you all do your own research projects!
+Of course, a month for this isn't the longest amount of time, but we're hoping to be able to get a LessWrong post or some decent results to showcase!
 
 ## Eligibility
 
-For our technical fellowships, we're looking for students who meet any of the following requirements:
+For our technical fellowship, we're looking for students who meet any of the following requirements:
 
-- Have taken CS 31 or an equivalent class OR
-- Have worked on a Python project OR
-- Have strong skills in another programming language
-- Additionally, a basic understanding of machine learning fundamentals and
-  familiarity with contemporary AI research would provide a good baseline for the
-  course’s content.
-
-For our governance fellowship, we do not enforce any particular requirements. However, we are very excited to see participants who:
-
-- Have strong writing and communication ability
-- Are familiar with US policy (e.g., have engaged in policy research or an internship)
-- Have some familiarity with computer science or another technical field.
+- Have taken a couple relevant CS/Math courses or have created an ML project previously
+- A basic understanding of ML fundamentals and familiarity with contemporary AI research would provide a good baseline for the course’s content.
 
 ## Apply
 
-Apply [here](https://docs.google.com/forms/d/e/1FAIpQLSemLB9_GuSYkR2vZHlPg1bf5ZIfBLoWrjrzpIJB2FWYuMREHA/viewform) by April 12th for the technical fellowship, and [here](https://docs.google.com/forms/d/e/1FAIpQLSdVcnHXPNZmhFstgmYAlUeHsdMYuhFApHuMsbhO-Ow-t9H4Vg/viewform) by April 10th for the governance fellowship.
+Apply <a href="https://docs.google.com/forms/d/e/1FAIpQLSdLJBGXTtdwOclYp8KaVPkbaBAgIsKcbVahcskuNmwM67KDUg/viewform" target="_blank" rel="noopener noreferrer">here</a> by October 2nd.
