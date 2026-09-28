@@ -19,4 +19,4 @@ Interests: Chain-of-Thought Monitoring, Technical AI Governance, AI Safety Commu
 
 ## William Zhou - Board Member
 
-Interests: Singular Learning Theory, Reinforcement Learning from Human Feedback, interpretability
+Interests: Singular Learning Theory, Reinforcement Learning from Human Feedback, Interpretability

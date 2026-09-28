@@ -1,6 +1,9 @@
 ---
+import "../styles/global.css";
+
 const title = Astro.props.title || "Bruin AI Safety";
 const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
+const year = new Date().getFullYear();
 ---
 
 <!doctype html>
@@ -194,7 +197,7 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
       class="py-10 bg-slate-900 text-slate-100 border-t-4 border-ucla-gold"
     >
       <div class="mx-auto max-w-7xl flex justify-between px-6">
-        <p>&copy; 2025 Bruin AI Safety</p>
+        <p>&copy; {year} Bruin AI Safety</p>
         <div class="flex gap-x-6 [&>a:hover]:text-ucla-gold">
           <a
             href="//blog.aisafetyatucla.org"
@@ -204,7 +207,7 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
           <a
             href="//github.com/ais-ucla"
             target="_blank"
-            rel="noopener noreferrer">Github</a
+            rel="noopener noreferrer">GitHub</a
           >
           <a
             href="https://discord.gg/5vHgayXspH"
