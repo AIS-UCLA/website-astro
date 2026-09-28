@@ -1,0 +1,70 @@
+---
+import SimpleLayout from "../layouts/SimpleLayout.astro";
+
+const members: { name: string; photo: string | null; bio: string }[] = [
+  {
+    name: "Max",
+    photo: "/assets/team/max.webp",
+    bio: "Max is a third year studying math and philosophy. His interests range from AI politics and macrostrategy, to cybernetics and multiagent systems, to philosophy of mind. Though his background is largely technical, he has recently pivoted to pursuing a generalist career in AI safety.",
+  },
+  {
+    name: "Kushal",
+    photo: "/assets/team/kushal-square.jpeg",
+    bio: "Kushal is a second year studying math. He's interested in technical AI alignment, has worked on NLAs and RL projects, and runs the reading group and GPU cluster. Plays chess (badly).",
+  },
+  {
+    name: "Troy",
+    photo: "/assets/team/troy.webp",
+    bio: "Ideally a double major in Computer Science and Asian American Studies, with a minor in Real Estate. Interested in how AI safety research can inform policy, communications, and governance, especially evaluations, algorithmic fairness, data privacy, and who holds power over compute and AI regulation. Cares about social justice more broadly, too.",
+  },
+  {
+    name: "Chris",
+    photo: "/assets/team/chris.webp",
+    bio: "A fourth year studying Statistics and Data Science who runs the technical fellowship. Super interested in model organisms and mechanistic interpretability, and has worked on mHC interpretability, NLA thought anchors, and more.",
+  },
+  {
+    name: "Alex",
+    photo: "/assets/team/alex.jpeg",
+    bio: "A fourth year in Computer Science and Cognitive Science, currently interning at Cedars-Sinai on computer vision for neuroscience. Member of Kyodo Taiko.",
+  },
+  {
+    name: "Nathan",
+    photo: "/assets/team/nathan.jpeg",
+    bio: "A junior studying Physics and Computational Biology. Loves solo traveling.",
+  },
+];
+---
+
+<SimpleLayout frontmatter={{ title: "Who We Are" }}>
+  <h1>Board</h1>
+  <ul class="not-prose mt-10 space-y-10">
+    {
+      members.map((m) => (
+        <li class="flex flex-col sm:flex-row gap-5 sm:gap-8 sm:items-start">
+          {m.photo ? (
+            <div class="h-32 w-32 shrink-0 overflow-hidden rounded-full">
+              <img
+                src={m.photo}
+                alt={m.name}
+                class="h-full w-full object-cover"
+              />
+            </div>
+          ) : (
+            <div
+              aria-hidden="true"
+              class="h-32 w-32 shrink-0 rounded-full bg-slate-100 border-2 border-dashed border-slate-300 flex items-center justify-center text-4xl font-medium text-slate-400"
+            >
+              {m.name[0]}
+            </div>
+          )}
+          <div class="max-w-2xl">
+            <h2 class="text-2xl font-bold text-slate-900 underline decoration-ucla-gold decoration-4 underline-offset-4">
+              {m.name}
+            </h2>
+            <p class="mt-3 text-slate-700 leading-relaxed">{m.bio}</p>
+          </div>
+        </li>
+      ))
+    }
+  </ul>
+</SimpleLayout>
