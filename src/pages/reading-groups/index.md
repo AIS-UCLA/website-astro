@@ -1,15 +1,12 @@
 ---
 layout: ../../layouts/SimpleLayout.astro
-title: AI Safety Reading Groups
+title: Technical Paper Reading Group
 ---
 
-# Reading Groups
+# Technical Paper Reading Group
 
-AI Safety reading groups are open to those who have completed an AI Safety intro fellowship, or have otherwise demonstrated an understanding of core AI & AI safety concepts. Sign up [here](https://docs.google.com/forms/d/e/1FAIpQLScj0iDnK9suL4IJEe54M52Jo1PSfu4UmBtvEz6yh3amJ1TybQ/viewform) by EOD April 12th.
+The reading group meets every week from 4-6pm on Sunday. Each week we choose a new paper and read it before the meeting, and then come together to discuss cutting-edge technical AI safety research.
 
-Reading groups are quarter-long programs designed to delve further into relevant AI safety concepts and research with other engaged participants. We offer two reading groups. The first reading group is built around the bestselling book, _If Anyone Builds It, Everyone Dies_ (IABIED): we will interrogate the claims made in the book and discuss the implications of the book's recommendations for how society manage AI risk. The second reading group is our technical paper reading group: each week participants will read a cutting-edge paper in ML or AI safety and discuss to build a more comprehensive understanding of technical AI safety.
+To maintain the quality of the discussion, we prefer that reading group participants have sufficient technical expertise to engage meaningfully with the papers. Even if you haven't completed the technical fellowship and are interested in joining, feel free to apply! If you are interested in joining the reading group, please message Kushal Baranwal on Discord (@kushalb7).
 
-Curricula:
-
-- [IABIED Reading Group](/reading-groups/iabied)
-- [Technical Paper Reading Group](/reading-groups/paper)
+Alternatively, sign up <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkw3j44x7BvymF_p_I6xFvJ4UeSteTaevbqz27HjnMmSmhUA/viewform" target="_blank" rel="noopener noreferrer">here</a>.

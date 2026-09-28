@@ -8,6 +8,8 @@ export default {
     extend: {
       colors: {
         gpt: "rgb(210, 244, 211)",
+        "ucla-blue": "#2774AE",
+        "ucla-gold": "#FFD100",
       },
     },
   },

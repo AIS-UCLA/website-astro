@@ -11,6 +11,15 @@ export default defineConfig({
   site: "https://ais-ucla.org",
   redirects: {
     "/forms/intro": "/",
+    "/fellowships/technical": "/fellowships",
+    "/fellowships/governance": "/fellowships",
+    "/fellowships/cv": "/fellowships",
+    "/fellowships/rl": "/fellowships",
+    "/fellowships/diffusion": "/fellowships",
+    "/fellowships/transformers": "/fellowships",
+    "/past-work": "/projects",
+    "/reading-groups/paper": "/reading-groups",
+    "/reading-groups/iabied": "/reading-groups",
   },
   vite: {
     css: {

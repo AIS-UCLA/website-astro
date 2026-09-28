@@ -1,5 +1,5 @@
 ---
-const title = Astro.props.title || "AI Safety @ UCLA";
+const title = Astro.props.title || "Bruin AI Safety";
 const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
 ---
 
@@ -14,10 +14,7 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
     <link rel="manifest" href="/site.webmanifest" />
     <meta name="generator" content={Astro.generator} />
-    <meta
-      name="description"
-      content={Astro.props.desc || "AI Safety @ UCLA"}
-    />
+    <meta name="description" content={Astro.props.desc || "Bruin AI Safety"} />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -27,7 +24,7 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
     <title>{title}</title>
     <style>
       #widenav a {
-        @apply rounded-lg py-1 px-2 text-sm hover:underline;
+        @apply rounded-lg py-1 px-2 text-sm hover:underline decoration-ucla-gold decoration-2;
 
         &.active {
           @apply underline;
@@ -50,7 +47,7 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
         @apply absolute bg-white p-2 text-right -right-2 left-auto whitespace-nowrap;
 
         & > a {
-          @apply text-slate-700 hover:underline block;
+          @apply text-slate-700 hover:underline decoration-ucla-gold decoration-2 block;
         }
       }
     </style>
@@ -86,74 +83,54 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
           <div class="flex justify-between text-slate-700 text-lg text-center">
             <a href="/">
               <img
-                alt="ai safety logo"
+                alt="Bruin AI Safety logo"
                 src="/assets/logo.png"
                 class="h-8 w-auto px-2 inline-block"
               />
-               AI Safety @ UCLA
+               Bruin AI Safety
             </a>
             <div
               id="widenav"
               class="hidden md:flex items-center gap-x-1 md:gap-x-8"
             >
-              <div class="dropdown">
-                <a
-                  class={currentPath === "/fellowships" ? "active" : ""}
-                  href="/fellowships"
-                >
-                  Fellowships
-                </a>
-                <div class="dropdown-reveal hidden">
-                  <a
-                    class={currentPath === "/fellowships/technical"
-                      ? "active"
-                      : ""}
-                    href="/fellowships/technical"
-                  >
-                    Technical
-                  </a>
-                  <a
-                    class={currentPath === "/fellowships/governance"
-                      ? "active"
-                      : ""}
-                    href="/fellowships/governance"
-                  >
-                    Governance
-                  </a>
-                </div>
-              </div>
-              <div class="dropdown">
-                <a
-                  class={currentPath === "/reading-groups" ? "active" : ""}
-                  href="/reading-groups"
-                >
-                  Reading Groups
-                </a>
-                <div class="dropdown-reveal hidden">
-                  <a
-                    class={currentPath === "/reading-groups/iabied"
-                      ? "active"
-                      : ""}
-                    href="/reading-groups/iabied"
-                  >
-                    IABIED Reading Group
-                  </a>
-                  <a
-                    class={currentPath === "/reading-groups/paper"
-                      ? "active"
-                      : ""}
-                    href="/reading-groups/paper"
-                  >
-                    Technical Paper Reading Group
-                  </a>
-                </div>
-              </div>
               <a
-                class={currentPath === "/past-work" ? "active" : ""}
-                href="/past-work"
+                class={currentPath === "/fellowships" ? "active" : ""}
+                href="/fellowships"
               >
-                Past Work
+                Fellowship
               </a>
+              <a
+                class={currentPath === "/reading-groups" ? "active" : ""}
+                href="/reading-groups"
+              >
+                Reading Group
+              </a>
+              <div class="dropdown">
+                <a
+                  class={currentPath === "/projects" ? "active" : ""}
+                  href="/projects"
+                >
+                  Projects
+                </a>
+                <div class="dropdown-reveal hidden">
+                  <a
+                    class={currentPath === "/projects/ideas-to-policy"
+                      ? "active"
+                      : ""}
+                    href="/projects/ideas-to-policy"
+                  >
+                    Ideas to Policy
+                  </a>
+                  <a
+                    class={currentPath === "/projects/ai-in-the-classroom"
+                      ? "active"
+                      : ""}
+                    href="/projects/ai-in-the-classroom"
+                  >
+                    AI in the Classroom
+                  </a>
+                </div>
+              </div>
               <div class="dropdown">
                 <a
                   class={currentPath === "/who-we-are" ? "active" : ""}
@@ -163,13 +140,13 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
                 </a>
                 <div class="dropdown-reveal hidden">
                   <a href="//blog.aisafetyatucla.org/"> Blog</a>
-                  <a href="//stats.ais-ucla.org/"> Cluster Stats</a>
                 </div>
               </div>
               <a
-                class="text-slate-100 bg-slate-900 rounded-lg"
+                class="text-slate-100 bg-slate-900 rounded-lg hover:text-ucla-gold"
                 target="_blank"
-                href="//discord.gg/37TzSyrwmf"
+                rel="noopener noreferrer"
+                href="https://discord.gg/5vHgayXspH"
               >
                 Join Us
               </a>
@@ -190,21 +167,22 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
               </svg>
             </div>
           </div>
-          <div id="narrownav" class="hidden border-t mt-4 border-slate-400">
-            <a href="/fellowships">Fellowships:</a>
-            <a href="/fellowships/technical">Technical</a>
-            <a href="/fellowships/governance">Governance</a>
+          <div id="narrownav" class="hidden border-t-2 mt-4 border-ucla-gold">
+            <a href="/fellowships">Fellowship</a>
             <hr />
-            <a href="/reading-groups">Reading Groups:</a>
-            <a href="/reading-groups/iabied">IABIED Reading Group</a>
-            <a href="/reading-groups/iabied">Technical Paper Reading Group</a>
+            <a href="/reading-groups">Reading Group</a>
             <hr />
-            <a href="/past-work">Past Work</a>
+            <a href="/projects">Projects:</a>
+            <a href="/projects/ideas-to-policy">Ideas to Policy</a>
+            <a href="/projects/ai-in-the-classroom">AI in the Classroom</a>
             <hr />
             <a href="/who-we-are">Who We Are</a>
             <a href="//blog.aisafetyatucla.org/">Blog</a>
-            <a href="//stats.ais-ucla.org/">Cluster Stats</a>
-            <a target="_blank" href="//discord.gg/37TzSyrwmf">Join Us</a>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href="https://discord.gg/5vHgayXspH">Join Us</a
+            >
           </div>
         </nav>
       </div>
@@ -212,13 +190,27 @@ const currentPath = new URL(Astro.request.url).pathname.replace(/\/$/, "");
     <main class="max-w-5xl mx-auto mb-auto w-full">
       <slot />
     </main>
-    <footer class="py-10 bg-slate-900 text-slate-100">
+    <footer
+      class="py-10 bg-slate-900 text-slate-100 border-t-4 border-ucla-gold"
+    >
       <div class="mx-auto max-w-7xl flex justify-between px-6">
-        <p>&copy; 2025 AI Safety @ UCLA</p>
-        <div class="flex gap-x-6">
-          <a href="//blog.aisafetyatucla.org">Blog</a>
-          <a href="//github.com/ais-ucla">Github</a>
-          <a href="//discord.gg/37TzSyrwmf">Discord</a>
+        <p>&copy; 2025 Bruin AI Safety</p>
+        <div class="flex gap-x-6 [&>a:hover]:text-ucla-gold">
+          <a
+            href="//blog.aisafetyatucla.org"
+            target="_blank"
+            rel="noopener noreferrer">Blog</a
+          >
+          <a
+            href="//github.com/ais-ucla"
+            target="_blank"
+            rel="noopener noreferrer">Github</a
+          >
+          <a
+            href="https://discord.gg/5vHgayXspH"
+            target="_blank"
+            rel="noopener noreferrer">Discord</a
+          >
         </div>
       </div>
     </footer>

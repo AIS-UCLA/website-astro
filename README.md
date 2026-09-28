@@ -1,6 +1,6 @@
 # AIS-UCLA.ORG
 
-Welcome to the AI Safety @ UCLA website repo.
+Welcome to the Bruin AI Safety website repo.
 
 ## Contributing
 

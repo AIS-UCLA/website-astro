@@ -3,12 +3,14 @@ import BaseLayout from "./BaseLayout.astro";
 
 const { frontmatter } = Astro.props;
 const title =
-  "AI Safety @ UCLA" + (frontmatter.title ? ` | ${frontmatter.title}` : "");
+  "Bruin AI Safety" + (frontmatter.title ? ` | ${frontmatter.title}` : "");
 ---
 
 <BaseLayout title={title}>
   <div class="px-10">
-    <div class="prose mx-auto my-10 max-w-none">
+    <div
+      class="prose prose-a:decoration-ucla-gold prose-a:decoration-2 prose-a:underline-offset-2 mx-auto my-10 max-w-none"
+    >
       <slot />
     </div>
   </div>
