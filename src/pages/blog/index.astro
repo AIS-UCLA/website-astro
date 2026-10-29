@@ -1,0 +1,27 @@
+---
+import SimpleLayout from "../../layouts/SimpleLayout.astro";
+import { getBlogPosts, formatPostDate } from "../../lib/blogPosts";
+
+const posts = await getBlogPosts();
+---
+
+<SimpleLayout frontmatter={{ title: "Blog" }}>
+  <h1>Blog</h1>
+  <p>
+    Writing from Bruin AI Safety members: our compute cluster, projects, and
+    thoughts on AI safety.
+  </p>
+  <ul class="list-none pl-0">
+    {
+      posts.map((post) => (
+        <li class="pl-0">
+          <a href={`/blog/${post.id}`}>{post.data.title}</a>
+          <div class="text-sm text-slate-500">
+            {formatPostDate(post.data.date)} · {post.data.author}
+            {post.data.draft && " · DRAFT"}
+          </div>
+        </li>
+      ))
+    }
+  </ul>
+</SimpleLayout>

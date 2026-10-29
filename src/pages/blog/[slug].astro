@@ -1,0 +1,23 @@
+---
+import { render } from "astro:content";
+import SimpleLayout from "../../layouts/SimpleLayout.astro";
+import { getBlogPosts, formatPostDate } from "../../lib/blogPosts";
+
+export async function getStaticPaths() {
+  const posts = await getBlogPosts();
+  return posts.map((post) => ({ params: { slug: post.id }, props: { post } }));
+}
+
+const { post } = Astro.props;
+const { Content } = await render(post);
+---
+
+<SimpleLayout frontmatter={{ title: post.data.title }}>
+  <a href="/blog" class="text-sm">&larr; All posts</a>
+  <h1 class="mb-2">{post.data.title}</h1>
+  <p class="mt-0 text-slate-500">
+    {formatPostDate(post.data.date)} · {post.data.author}
+    {post.data.draft && " · DRAFT (not published)"}
+  </p>
+  <Content />
+</SimpleLayout>
