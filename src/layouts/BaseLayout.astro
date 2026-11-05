@@ -142,7 +142,12 @@ const year = new Date().getFullYear();
                   Who We Are
                 </a>
                 <div class="dropdown-reveal hidden">
-                  <a href="//blog.aisafetyatucla.org/"> Blog</a>
+                  <a
+                    class={currentPath.startsWith("/blog") ? "active" : ""}
+                    href="/blog"
+                  >
+                    Blog
+                  </a>
                 </div>
               </div>
               <a
@@ -180,7 +185,7 @@ const year = new Date().getFullYear();
             <a href="/projects/ai-in-the-classroom">AI in the Classroom</a>
             <hr />
             <a href="/who-we-are">Who We Are</a>
-            <a href="//blog.aisafetyatucla.org/">Blog</a>
+            <a href="/blog">Blog</a>
             <a
               target="_blank"
               rel="noopener noreferrer"
@@ -199,11 +204,7 @@ const year = new Date().getFullYear();
       <div class="mx-auto max-w-7xl flex justify-between px-6">
         <p>&copy; {year} Bruin AI Safety</p>
         <div class="flex gap-x-6 [&>a:hover]:text-ucla-gold">
-          <a
-            href="//blog.aisafetyatucla.org"
-            target="_blank"
-            rel="noopener noreferrer">Blog</a
-          >
+          <a href="/blog">Blog</a>
           <a
             href="//github.com/ais-ucla"
             target="_blank"
